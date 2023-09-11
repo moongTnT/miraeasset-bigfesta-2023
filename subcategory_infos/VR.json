@@ -1,0 +1,24 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Augmented/Virtual/Mixed Reality and Spatial Computing",
+			"description": "",
+			"title_kr": "증강/가상/혼합 현실 및 공간 컴퓨팅 기술을 제공하는 기업"
+		},
+		{
+			"title": "Creator Platforms",
+			"description": "",
+			"title_kr": "창작자 플랫폼"
+		},
+		{
+			"title": "Creator Economy",
+			"description": "",
+			"title_kr": "창조 경제의 주요 요소로 인식되는 주식."
+		},
+		{
+			"title": "Digital Infrastructure/Hardware",
+			"description": "",
+			"title_kr": "디지털 인프라/하드웨어"
+		}
+	]
+}

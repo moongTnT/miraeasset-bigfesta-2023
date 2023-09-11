@@ -1,0 +1,25 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Blockchain-specific companies",
+			"description": "",
+			"title_kr": "블록체인 기업들"
+		},
+		{
+			"title": "Hardware Platforms",
+			"description": "",
+			"title_kr": "하드웨어 플랫폼 기업. (Hardware platform company)"
+		},
+		{
+			"title": "Software Platforms",
+			"description": "",
+			"title_kr": "소프트웨어 플랫폼 개발 및 제공"
+		},
+		{
+			"title": "Promising sectors with the greatest value creation potential:",
+			"description": "i. Financial service providers ii. Media iii. Trade iv. Healthcare v. Mobility/Transportation vi. Energy",
+			"title_kr": "가치 창출 잠재력이 가장 큰 유망한 부문",
+			"description_kr": "i. 금융 서비스 제공자\nii. 미디어\niii. 무역\niv. 의료\nv. 이동/운송\nvi. 에너지"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Electric Vehicles (“EV”)",
+			"description": "companies that produce electric/hybrid vehicles, including cars, trucks, motorcycles/scooters, buses, and electric rail.",
+			"title_kr": "전기차 시장 관련",
+			"description_kr": "전기/하이브리드 차량 생산 기업, 자동차, 트럭, 오토바이/스쿠터, 버스, 전기철도 포함."
+		},
+		{
+			"title": "Electric Vehicle Components (“EVC”)",
+			"description": "companies that produce electric/hybrid vehicle components, including electric drivetrains, lithium-ion and other types of electric batteries, and fuel cells. In addition, companies that produce the chemicals and raw materials (including but not limited to lithium and cobalt) that comprise these electric/hybrid vehicle components are eligible for inclusion.",
+			"title_kr": "전기차 부품",
+			"description_kr": "전기/하이브리드차 부품 및 화학 물질 생산 업체 (리튬이온 배터리, 연료전지 등)를 투자 대상으로 선정."
+		},
+		{
+			"title": "Autonomous Vehicle Technology (“AVT”)",
+			"description": "companies that build autonomous vehicles and/or develop hardware and software that facilitates the development of autonomous vehicles, including sensors, mapping technology, artificial intelligence, Advanced Driver Assistance Systems, ride-share platforms, and network-connected services for transportation.",
+			"title_kr": "자율주행차 기술 (AVT)",
+			"description_kr": "자율주행차 및 센서, 맵핑 기술, 인공지능, 운전 보조 시스템, 라이드쉐어 플랫폼 등 자율주행차 개발과 관련된 기업들."
+		}
+	]
+}

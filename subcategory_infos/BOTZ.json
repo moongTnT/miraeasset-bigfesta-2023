@@ -1,0 +1,28 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Industrial Robots and Automation.",
+			"description": "These are companies that provide robots and robotic automation products and services with a focus on industrial applications.",
+			"title_kr": "산업용 로봇과 자동화. (Industrial robots and automation.)",
+			"description_kr": "로봇과 로봇 자동화 제품 및 서비스를 제공하는 기업 중 산업 분야에 초점을 둔 기업입니다."
+		},
+		{
+			"title": "Unmanned Vehicles and Drones.",
+			"description": "These are companies that are involved in the development and production of unmanned vehicles (including hardware and software for autonomous cars), drones and robots for both military and consumer markets.",
+			"title_kr": "무인 운송수단과 드론.",
+			"description_kr": "무인 차량, 드론 및 로봇의 개발과 생산에 관여하는 기업들입니다. (군용 및 소비자 시장 모두 포함)"
+		},
+		{
+			"title": "Non-industrial Robotics",
+			"description": "These are companies that are involved in developing robots and AI that are used for non-industrial applications, including but not limited to agriculture, healthcare, consumer applications and entertainment.",
+			"title_kr": "비산업용 로봇 기업",
+			"description_kr": "비즈니스 분야: 로봇 및 AI 개발, 비 산업 분야 (농업, 의료, 소비자, 엔터테인먼트 등)"
+		},
+		{
+			"title": "Artificial Intelligence",
+			"description": "These are companies that develop or directly deliver Artificial Intelligence in form of products, software, or systems. These companies should sell Artificial Intelligence and not utilize/leverage it to enhance their products.",
+			"title_kr": "인공지능 기술을 활용하는 주식",
+			"description_kr": "인공지능을 개발하거나 직접 제공하는 기업들 중에서 제품, 소프트웨어, 시스템 형태로 인공지능을 판매하는 기업들입니다."
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "P2P and Marketplace Lending",
+			"description": "These are companies that provide online platforms for peer-topeer and marketplace lending that is disrupting the traditional lending sector",
+			"title_kr": "P2P 및 마켓플레이스 대출 플랫폼",
+			"description_kr": "전통적 대출업계를 혁신하는 온라인 플랫폼을 제공하는 P2P 및 마켓플레이스 대출 기업들입니다."
+		},
+		{
+			"title": "Mobile Payments",
+			"description": "These are companies that provide platforms and services that focus on peer-to-peer mobile payments and POS (Point-ofsale) services.",
+			"title_kr": "모바일 결제 기업",
+			"description_kr": "P2P 모바일 결제 및 POS 서비스에 집중하는 플랫폼 및 서비스 제공업체들입니다."
+		},
+		{
+			"title": "Crowd-Funding",
+			"description": "These are companies that provide online platforms for sourcing funds from individual members.",
+			"title_kr": "대중의 자금을 모아 사업을 진행하는 새로운 투자 방식 (Crowd-funding is a new investment method that raises funds from the public for business projects.)",
+			"description_kr": "온라인 펀딩 플랫폼을 제공하는 기업들입니다."
+		},
+		{
+			"title": "Blockchain and Alternative Currencies",
+			"description": "These are companies that are involved in the development of blockchain technology, or that utilize blockchain technology to provide financial services. Companies that are involved in the development of other alternative currencies are also eligible for inclusion.",
+			"title_kr": "블록체인과 대체통화에 관련된 주식",
+			"description_kr": "블록체인 기술 개발 또는 금융 서비스 제공을 위해 블록체인 기술을 활용하는 회사들. 또한, 기타 대체 화폐 개발에 참여하는 회사들도 포함 가능."
+		}
+	]
+}

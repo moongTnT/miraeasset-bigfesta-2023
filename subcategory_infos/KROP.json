@@ -1,0 +1,28 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Precision Agriculture",
+			"description": "Technologies used to increase crop yields and reduce levels of traditional agricultural inputs (land, water, fertilizer, etc.) to grow crops more profitably/efficiently. Business activities include the development of Geographic Information System (“GIS”) software and hardware for GIS-based agriculture, precision weed control technologies, soil and water sensors, weather tracking, and satellite imaging",
+			"title_kr": "정밀농업 기술 관련 주식. 혁신적인 농업 기술 및 솔루션을 개발하는 기업들을 포함한다.",
+			"description_kr": "농작물 수확량 향상과 전통적인 농업 자원(토양, 물, 비료 등) 사용량을 감소시켜 더욱 효율적이고 수익성 있는 작물 재배를 위한 기술. 지리 정보 시스템(GIS) 소프트웨어 및 하드웨어 개발, 정밀 제초 기술, 토양 및 수분 센서, 기상 추적 및 위성 이미징 등의 사업 활동."
+		},
+		{
+			"title": "Robotics/Automation",
+			"description": "Technologies used to reduce labor and other farming inputs. Business activities include the development of farming drones and autonomous farm equipment for irrigation, soil management (agronomy), pollination, harvesting and processing (e.g. roboticenabled harvesters)",
+			"title_kr": "로봇 및 자동화 기술을 중심으로 하는 기업들을 투자합니다.",
+			"description_kr": "농업용 드론 및 자율형 농기계 개발, 노동력 및 농산물 생산 비용 절감기술을 주력사업으로 함"
+		},
+		{
+			"title": "Controlled Environment Agriculture (“CEA”)",
+			"description": "Technologies and systems that optimize plant and/or fish farming and use controlled environments to reduce the types and/or quantity of inputs required for farming. Business activities include vertical farming, hydroponics, aquaponics and aeroponics",
+			"title_kr": "실내 농업",
+			"description_kr": "식물 및 어류 양식 최적화 기술 및 시스템으로 농업에 필요한 자원을 줄이는 수직 농장, 수경재배, 양어장, 공중재배 등에 초점을 둔 기업."
+		},
+		{
+			"title": "Agricultural Biotechnology",
+			"description": "Biological/genetic technologies used to enhance agricultural cultivation and yield. Business activities include the use of gene editing to develop crops with higher yield, less water requirements, greater insect resistance",
+			"title_kr": "농업 생명공학",
+			"description_kr": "농업 생산성 향상을 위한 생물학적/유전학적 기술. 유전자 편집을 통해 수확량 증가, 물 사용량 감소, 해충 저항력 강화 등 식물 육성에 관여."
+		}
+	]
+}

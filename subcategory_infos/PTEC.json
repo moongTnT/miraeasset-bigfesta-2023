@@ -1,0 +1,22 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Property Management",
+			"description": "Companies that provide software and/or information technology services to facilitate the management of commercial and residential real estate, including home automation, smart security systems, tenant management and energy management/monitoring. This also includes insurance an construction process management.",
+			"title_kr": "부동산 관리",
+			"description_kr": "부동산 관리 및 홈 오토메이션, 스마트 보안 시스템, 입주자 관리 및 에너지 관리/모니터링 소프트웨어 및 IT 서비스 제공 회사들. 또한 보험 및 건설 프로세스 관리 포함."
+		},
+		{
+			"title": "Marketplace and Platform",
+			"description": "Companies that operate online marketplaces and platforms that facilitate the purchase, sale, rental, shared workspace, discovery and/or financing of real estate",
+			"title_kr": "마켓플레이스와 플랫폼",
+			"description_kr": "부동산 거래 및 임대, 공유 공간, 금융을 촉진하는 온라인 거래 플랫폼을 운영하는 기업들"
+		},
+		{
+			"title": "Research and Analytics",
+			"description": "Companies that utilize software, data, artificial intelligence, manchine learning, spatial recognition and/or other information technology to provide real estate research and analytics. This includes companies that provide virtual and augmented reality solutions to the real estate sector.",
+			"title_kr": "연구 및 분석에 관한 기업",
+			"description_kr": "부동산 연구 및 분석을 위해 소프트웨어, 데이터, 인공지능, 기계 학습, 공간 인식 등 IT 기술을 활용하는 기업. 부동산 업계에 가상 및 증강 현실 솔루션을 제공하는 기업도 포함."
+		}
+	]
+}

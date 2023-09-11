@@ -1,0 +1,28 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Wind Energy Systems",
+			"description": "Companies involved in development, manufacturing, integration, and/or maintenance of turbine components and turbines that harness energy from the wind and convert it into electrical power",
+			"title_kr": "풍력 발전 시스템",
+			"description_kr": "풍력 발전 타워와 터빈 부품 개발 및 생산에 관여하는 기업들"
+		},
+		{
+			"title": "Wind Power Production",
+			"description": "Companies that generate and distribute electricity from wind power.",
+			"title_kr": "풍력 생산",
+			"description_kr": "풍력 발전 및 유통 회사."
+		},
+		{
+			"title": "Wind Energy Technology",
+			"description": "Companies that develop commercial and residential infrastructure and systems powered by wind energy, as well as residential and commercial scale batteries for electricity produced from wind power.",
+			"title_kr": "풍력 에너지 기술",
+			"description_kr": "풍력 에너지 시스템과 전기 저장장치를 개발하는 기업."
+		},
+		{
+			"title": "Wind Power Integration & Maintenance",
+			"description": "Companies that provide engineering and/or consulting services for the installation, maintenance, and /or utilization of wind energy at the residential, commercial, and industrial levels.",
+			"title_kr": "풍력 발전 통합 및 유지보수",
+			"description_kr": "풍력 에너지 설치, 유지보수 및 이용에 대한 엔지니어링 및 컨설팅 서비스 제공하는 기업들."
+		}
+	]
+}

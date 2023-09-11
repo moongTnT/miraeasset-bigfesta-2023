@@ -1,0 +1,34 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Software as a Service (SaaS)",
+			"description": "Companies that are involved in licensing and delivery of software over the internet on a subscription basis which is sometimes called as “on-demand software”.",
+			"title_kr": "소프트웨어 서비스 (SaaS)",
+			"description_kr": "온디맨드 소프트웨어의 라이센싱 및 서비스 제공 업체들. (Software licensing and service providers for on-demand software)"
+		},
+		{
+			"title": "Platform as a Service (PaaS)",
+			"description": "Companies that are involved in providing a platform for creating software applications which are delivered over the internet.",
+			"title_kr": "PaaS: 클라우드 기반 플랫폼, 서비스 제공",
+			"description_kr": "인터넷을 통해 소프트웨어 애플리케이션을 개발하는 플랫폼을 제공하는 기업들."
+		},
+		{
+			"title": "Infrastructure as a Service(IaaS)",
+			"description": "Companies that are involved in providing virtualized computing resources over the internet. The services include shared resources like shared storage, shared servers, storage pool etc.",
+			"title_kr": "인프라스트럭처 서비스(IaaS)는 키워드입니다.",
+			"description_kr": "클라우드 컴퓨팅 서비스 제공 기업 (가상화된 컴퓨팅 리소스 제공)"
+		},
+		{
+			"title": "Data Center REITs",
+			"description": "Companies that are involved in owning and managing facilities that customers use to safely store data and offer a range of products and services to help keep servers and data safe, including providing uninterruptable power supplies, air-cooled chillers and physical security.",
+			"title_kr": "데이터 센터 부동산 투자 신탁",
+			"description_kr": "데이터 저장 시설을 소유하고 관리하는 기업들, 서버와 데이터의 안전을 돕기 위한 제품과 서비스를 제공함"
+		},
+		{
+			"title": "Cloud and Edge Computing Infrastructure/Cloud Infrastructure Components",
+			"description": "Companies involved in manufacturing or distributing hardware components like chips that are built into servers, specialized network switches and routers etc. used in cloud and edge computing activities.",
+			"title_kr": "클라우드 및 엣지 컴퓨팅 인프라/클라우드 인프라 구성 요소",
+			"description_kr": "클라우드와 엣지 컴퓨팅에 사용되는 서버, 네트워크 스위치, 라우터와 같은 하드웨어 구성 요소를 제조 또는 유통하는 기업들."
+		}
+	]
+}

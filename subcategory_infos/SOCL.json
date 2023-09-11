@@ -1,0 +1,19 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "social networking",
+			"description": "",
+			"title_kr": "소셜 네트워킹"
+		},
+		{
+			"title": "file sharing",
+			"description": "",
+			"title_kr": "파일 공유 기업"
+		},
+		{
+			"title": "web-based media applications",
+			"description": "",
+			"title_kr": "웹 기반 미디어 애플리케이션"
+		}
+	]
+}

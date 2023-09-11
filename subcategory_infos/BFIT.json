@@ -1,0 +1,28 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Healthy Food, Nutrition and Weight loss.",
+			"description": "These are companies involved in production, manufacturing or distribution of natural/ organic foods, provision of weight loss and dietary services and operation of healthy food and nutrition stores.",
+			"title_kr": "건강식품, 영양 및 체중 감량.",
+			"description_kr": "자연/유기농 식품 생산/제조/유통, 체중 감량 및 식이 서비스, 건강식품 및 영양 가게 운영에 관여하는 회사들입니다."
+		},
+		{
+			"title": "Fitness and Apparel",
+			"description": "Includes fitness clubs, as well as companies which are involved in the production, manufacturing or sale of sports/fitness equipment, fitness wearable technology, fitness/athletic apparel.",
+			"title_kr": "피트니스 및 의류",
+			"description_kr": "피트니스 클럽, 스포츠/피트니스 장비 생산, 제조 또는 판매, 피트니스 웨어러블 기술, 운동복에 관련된 기업들 포함."
+		},
+		{
+			"title": "Nutritional Supplements and Preventive Health Care",
+			"description": "These are companies involved in manufacturing or development of nutritional supplements or traditional medicines and suppliers or manufacturers of fitness trackers and preventive health monitoring devices.",
+			"title_kr": "영양 보충제와 예방 건강 관리",
+			"description_kr": "영양 보충제 및 전통 의료품 제조 또는 개발과 피트니스 트래커 및 예방 건강 모니터링 장치의 공급업체 또는 제조업체에 관여하는 기업들이다."
+		},
+		{
+			"title": "Other categories",
+			"description": "These are companies engaged in the production and/or sale of anti-aging products, workplace wellness companies, spa and wellness centres, and wellness hotels.",
+			"title_kr": "다른 카테고리",
+			"description_kr": "노화 방지 제품, 워크플레이스 웰니스 회사, 스파 및 웰니스 센터, 웰니스 호텔에 종사하는 회사들이다."
+		}
+	]
+}

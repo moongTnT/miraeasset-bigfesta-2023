@@ -1,0 +1,28 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Exploration and Mining",
+			"description": "Companies engaged in the mining of disruptive materials and providing related services, including exploration and mineral extraction projects",
+			"title_kr": "탐사 및 광업",
+			"description_kr": "파괴적 물질의 채굴과 관련 서비스를 제공하는 회사들, 탐사와 광물 추출 프로젝트 등에 참여하는 회사들"
+		},
+		{
+			"title": "Production of Disruptive Materials",
+			"description": "Companies active in themanufacturing, processing and trading of disruptive materials for primary usage and directly related products",
+			"title_kr": "혁신적인 소재 생산",
+			"description_kr": "주요 사용 및 직접 관련된 제품에 대한 혁신적인 재료의 제조, 가공 및 거래에 참여하는 기업들"
+		},
+		{
+			"title": "Enhancements of Disruptive Materials",
+			"description": "Companies that are refining, developing and smelting materials to extract and purify disruptive materials",
+			"title_kr": "파괴적인 재료의 향상",
+			"description_kr": "재료를 정제, 개발 및 제련하여 파괴적인 재료를 추출하고 정제하는 회사들."
+		},
+		{
+			"title": "Enterprise Video and Chat Communication Platforms",
+			"description": "Includes companies that provide cloud-based platforms, which enable online communication such as voice, video and messaging for end-users",
+			"title_kr": "기업용 비디오 및 채팅 커뮤니케이션 플랫폼",
+			"description_kr": "온라인 음성, 영상 및 메시징과 같은 온라인 커뮤니케이션 기능을 제공하는 클라우드 플랫폼 회사 포함."
+		}
+	]
+}

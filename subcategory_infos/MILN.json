@@ -1,0 +1,16 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Consumption",
+			"description": "Clothing and Apparel,  Food/Restaurants and Consumer Staples, Social and Entertainment, Travel and Mobility",
+			"title_kr": "소비 관련 주식",
+			"description_kr": "의류 및 의류, 식품/레스토랑 및 소비재, 사회 및 엔터테인먼트, 여행 및 이동성"
+		},
+		{
+			"title": "Human and Financial Capital Development",
+			"description": "Education and Employment, Financial Services and Investments, Housing and Home Goods, Health and Fitness",
+			"title_kr": "인적 자본과 재무 자본 개발",
+			"description_kr": "교육, 취업, 금융, 주택, 건강 등 다양한 서비스를 제공하는 기업."
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+    "front_config": {
+        "host": "118.67.143.74",
+        "port": 3000
+    }, 
+
+    "back-1_config": {
+        "host": "101.101.208.60",
+        "port": 8000,
+        "password": ""
+    },
+
+    "back-2_config": {
+        "host": "118.67.130.79",
+        "port": 8000,
+        "password": "G6H=Jb?A3i"
+    },
+
+    "db_config": {
+        "host": "db-hci0l.pub-cdb.ntruss.com",
+        "user": "moong",
+        "password": "Whansrms17!",
+        "port": 3306,
+        "db": "db"
+    },
+
+    "openai_config": {
+        "API_KEY": "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"
+    }
+}

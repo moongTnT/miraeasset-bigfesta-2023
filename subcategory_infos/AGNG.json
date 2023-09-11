@@ -1,0 +1,28 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Aging Population focused Health Care Products.",
+			"description": "Pharmaceutical and biotech companies which are involved in research, development, production or manufacturing of drugs used to diagnose advanced age-related diseases.",
+			"title_kr": "고령화 인구를 위한 보건 의료 제품.",
+			"description_kr": "고령화 질환 진단을 위한 약물 개발 및 제조에 참여하는 제약 및 바이오테크 회사."
+		},
+		{
+			"title": "Aging Population focused Health Care Services.",
+			"description": "These are companies providing health care services exclusively to old age people, including companies which provide post-acute care for the aging population.",
+			"title_kr": "고령화 인구에 초점을 맞춘 건강 관리 서비스.",
+			"description_kr": "고령자를 위한 의료 서비스를 전문으로 제공하는 회사들, 노인 인구를 위한 후기 간호 서비스를 제공하는 회사들입니다."
+		},
+		{
+			"title": "Aging Population focused Medical",
+			"description": "Devices.  Suppliers or manufactures of medical devices used by the aging population.",
+			"title_kr": "고령화 인구에 초점을 맞춘 의료 기업",
+			"description_kr": "노인들에 의해 사용되는 의료 기기를 공급하거나 제조하는 기업들."
+		},
+		{
+			"title": "Aging Population focused Senior Homes.",
+			"description": "These are companies operating in skilled nursing homes, senior living homes and continuing care retirement communities.",
+			"title_kr": "고령화 인구에 초점을 맞춘 노인 요양원.",
+			"description_kr": "노인 요양원, 노인 주거원 및 지속적인 요양 은퇴 커뮤니티를 운영하는 기업들이다."
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Construction & Engineering Services",
+			"description": "Companies that provide engineering, design, maintenance and construction services for large-scale infrastructure projects such as energy generation/distribution, water/wastewater, telecommunications, transportation (roads, bridges, tunnels, rail), airports and seaports.",
+			"title_kr": "건설 및 공학 서비스",
+			"description_kr": "대규모 인프라 프로젝트에 대한 엔지니어링, 설계, 유지보수 및 건설 서비스를 제공하는 기업들. (에너지, 수도/하수, 통신, 교통, 공항, 항만 등)"
+		},
+		{
+			"title": "Raw Materials and Composites",
+			"description": "Companies that produce and supply raw and composite materials (steel, copper, nickel, tin, aluminum, concrete, asphalt, cement and specialty chemicals) that are utilized in the construction and development of infrastructure projects.",
+			"title_kr": "원자재와 복합재료",
+			"description_kr": "인프라 프로젝트에 사용되는 원자재와 복합재료를 공급하는 기업들. (강철, 구리, 니켈, 주석, 알루미늄, 콘크리트, 아스팔트, 시멘트, 특수 화학물질)"
+		},
+		{
+			"title": "Products and Equipment",
+			"description": "Companies that sell or rent heavy construction equipment, cranes, electric and fiber optic cables, pipes, pumps, smart meters and other products or equipment utilized in large-scale infrastructure projects.",
+			"title_kr": "제품 및 장비",
+			"description_kr": "대형 인프라 프로젝트에서 사용되는 건설 장비 및 기타 제품을 판매하는 기업들."
+		},
+		{
+			"title": "Industrial Transportation",
+			"description": "Companies that transport infrastructure raw materials and equipment.",
+			"title_kr": "산업 운송",
+			"description_kr": "인프라 원자재 및 장비 운송을 담당하는 기업들."
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Hydrogen Production",
+			"description": "Companies involved in the production, transportation, storage, and distribution of hydrogen (including renewable hydrogen) that can be used as an energy source",
+			"title_kr": "수소 생산 기업 (Hydrogen production company)",
+			"description_kr": "수소 생산, 운송, 저장, 배급과 관련된 기업들, 재생 가능한 수소를 에너지원으로 사용함"
+		},
+		{
+			"title": "Hydrogen Fuel Cells",
+			"description": "Companies that develop and/or manufacture fuel cells (and the components thereof) that convert chemical energy into electricity and heat, powered by hydrogen fuel and or reformed hydrogen-rich gas",
+			"title_kr": "수소 연료전지 기술을 사용하는 기업들의 주식",
+			"description_kr": "수소 연료 전지 및 그 구성 요소를 개발 및 제조하는 기업들. 화학 에너지를 전기와 열로 변환하는 연료 전지를 수소 연료 또는 수소 가스로 구동한다."
+		},
+		{
+			"title": "Hydrogen Technology",
+			"description": "Companies involved in the production of hydrogen electrolyzers, tanks and pipelines, commercial and residential infrastructure, generators, engines, and vehicles powered by hydrogen fuel cells, as well as hydrogen fueling stations",
+			"title_kr": "수소 기술",
+			"description_kr": "수소 전해기, 탱크 및 파이프라인, 상업 및 주거용 인프라, 발전기, 엔진 및 수소 연료 전지로 작동하는 차량 및 수소 충전소 생산에 관여하는 기업들."
+		},
+		{
+			"title": "Hydrogen Integration",
+			"description": "Companies that provide engineering and consulting services for the adoption and utilization of hydrogen-based fuel sources at the residential, commercial, and industrial levels",
+			"title_kr": "수소 통합 기업",
+			"description_kr": "수소 연료 이용을 위한 공학 및 컨설팅 서비스를 제공하는 기업들"
+		}
+	]
+}

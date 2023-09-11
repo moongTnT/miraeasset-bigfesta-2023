@@ -1,0 +1,24 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "gene editing",
+			"description": "",
+			"title_kr": "유전자 편집 기술, 유전자 수정 기술"
+		},
+		{
+			"title": "genomic sequencing",
+			"description": "",
+			"title_kr": "유전체 시퀀싱 기술을 개발하고 있는 회사."
+		},
+		{
+			"title": "development and testing of genetic medicine/therapies",
+			"description": "",
+			"title_kr": "유전학적 약물 및 치료법의 개발과 실험"
+		},
+		{
+			"title": "computational genomics and genetic diagnostics",
+			"description": "",
+			"title_kr": "유전체 분석과 유전 진단에 관련된 기술과 서비스를 제공하는 기업."
+		}
+	]
+}

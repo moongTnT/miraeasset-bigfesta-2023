@@ -1,0 +1,24 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "renewable energy production",
+			"description": "",
+			"title_kr": "재생 에너지 생산"
+		},
+		{
+			"title": "residential and commercial energy efficiency",
+			"description": "",
+			"title_kr": "주택 및 상업용 에너지 효율성"
+		},
+		{
+			"title": "smart grid implementation,",
+			"description": "",
+			"title_kr": "스마트 그리드 도입"
+		},
+		{
+			"title": "lithium-ion batteries and/or fuel cells, and/or",
+			"description": "",
+			"title_kr": "리튬이온 배터리와/또는 연료전지와 관련 있는 기업들."
+		}
+	]
+}

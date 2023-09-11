@@ -1,0 +1,28 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Educational Content/ Publishing",
+			"description": "Includes companies involved in developing, providing and publishing educational content, including but not limited to companies providing digital content for test preparations, language learning courses, and traditional and interactive etextbooks for purchase or rental.",
+			"title_kr": "교육 콘텐츠 및 출판물",
+			"description_kr": "교육 콘텐츠 개발 및 제공, 디지털 콘텐츠 제공 등 교육 관련 기업들의 종목들을 포함."
+		},
+		{
+			"title": "Digital Learning Platforms",
+			"description": "Includes companies which are involved in providing digital learning platforms, MOOCs (Massive Open Online Courses), accredited online courses, recognized educational degrees, vocational training, educational games and training/tutor services, content delivery tools (e.g. digital whiteboards), augmented/virtual reality based education/training, and artificial intelligence tools for augmenting teaching and learning.",
+			"title_kr": "디지털 학습 플랫폼",
+			"description_kr": "온라인 교육 플랫폼, 온라인 강의, 인증된 학위, 직업 훈련, 교육 게임, AI를 활용한 교육 등을 제공하는 기업들을 포함한다."
+		},
+		{
+			"title": "Early Childhood Education",
+			"description": "Includes companies involved in providing early/pre-school education services, managing child-care centers and related services.",
+			"title_kr": "유아 교육",
+			"description_kr": "유아교육 및 육아센터 관리와 관련된 서비스를 제공하는 기업 포함."
+		},
+		{
+			"title": "Secondary, Higher and Professional Education",
+			"description": "Includes companies that provide campus-based courses, classroom-based tutoring services, and companies providing secondary, higher and professional education services, and programs excluding for-profit schools/universities.",
+			"title_kr": "학력, 대학교, 직업 교육",
+			"description_kr": "교실 기반 학습 서비스 제공, 전문 교육 프로그램 제공, 비영리 학교/대학 제외"
+		}
+	]
+}

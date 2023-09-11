@@ -1,0 +1,19 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Own, operate, and or develop data centers (including data center REITs) “DATA CENTER COMPANIES”;",
+			"description": "",
+			"title_kr": "데이터 센터 회사들을 소유, 운영, 개발하는 기업들. (데이터 센터 REIT 포함)"
+		},
+		{
+			"title": "Own, operate, and or develop cellular towers (including cellular tower REITs) “CELLULAR TOWER COMPANIES”;",
+			"description": "",
+			"title_kr": "휴대폰 기지국을 소유, 운영, 또는 개발하는 기업들 (포함: 휴대폰 기지국 부동산 투자 신탁(REITs))"
+		},
+		{
+			"title": "Manufacture the servers and/or other hardware often used in data centers and cellular towers,including semiconductors, integrated circuits, and processors 'DIGITAL INFRASTRUCTURE', 'HARDWARE COMPANIES'",
+			"description": "",
+			"title_kr": "서버 및 기타 하드웨어를 제조하여 데이터 센터 및 휴대폰 타워에 사용되는 회사, 반도체, 집적 회로 및 프로세서 생산"
+		}
+	]
+}

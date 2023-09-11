@@ -1,0 +1,28 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Artificial Intelligence Developers",
+			"description": "This category includes companies that develop AI and use AI in their own products. Companies that have developed internal AI capabilities (organically or through acquisition) and are applying artificial intelligence technology to enhance their products and services are the focus. AI applications include but are not limited to language/image processing and recognition, automated communications, threat detection, recommendation generation, and other predictive analytics. The companies are considered for inclusion in this category based on the level of AI involvement of the companies.",
+			"title_kr": "인공지능 개발업체 - AI 개발에 전문화된 회사",
+			"description_kr": "AI 기술을 개발하고 제품에 적용하는 기업들을 포함하는 카테고리입니다. AI 응용분야는 언어/이미지 처리 및 인식, 자동화된 커뮤니케이션, 위협 탐지, 추천 생성, 예측 분석 등 다양합니다. 기업들은 AI 기술의 참여 수준을 기준으로 포함 여부가 결정됩니다."
+		},
+		{
+			"title": "Artificial Intelligence-as-aService (“AIaaS”)",
+			"description": "Companies that provide artificial intelligence capabilities to their customers as a service. Companies in this segment typically offer cloud-based platforms that allow their customers to apply artificial intelligence techniques without needing to make a direct investment in AI-related infrastructure.",
+			"title_kr": "인공지능 서비스",
+			"description_kr": "클라우드 기반으로 인공지능 기술을 제공하는 기업들. AI 관련 인프라 투자 없이도 고객들이 AI 기술을 활용할 수 있는 플랫폼을 제공."
+		},
+		{
+			"title": "Artificial Intelligence Hardware",
+			"description": "Companies that produce semiconductors, memory storage and other hardware that is utilized for artificial intelligence applications.",
+			"title_kr": "인공지능 하드웨어에 관련된 주식입니다.",
+			"description_kr": "인공지능 응용에 사용되는 반도체, 메모리 스토리지 등 하드웨어를 생산하는 기업들."
+		},
+		{
+			"title": "Quantum Computing",
+			"description": "Companies that are at the forefront of developing quantum computing technology, which is in the process of being commercialized and is expected to have significance in AI and big data applications in the future.",
+			"title_kr": "양자 컴퓨팅 기술. 미래의 혁신과 높은 성능이 기대되는 분야.",
+			"description_kr": "양자 컴퓨팅 기술 개발에 선도적인 기업들, 상용화 예상, AI와 빅데이터에 중요성"
+		}
+	]
+}
