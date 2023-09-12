@@ -14,4 +14,4 @@ chromadb==0.4.9
 future==0.18.3
 openai==0.28.0
 tiktoken==0.4.0
-matplot==3.5.2
+matplot==0.1.9
