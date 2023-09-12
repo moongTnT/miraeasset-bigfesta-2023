@@ -1,0 +1,955 @@
+2023-09-04 16:02:50 [INFO] [httptools_impl.py] [23545] 127.0.0.1:55782 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-04 16:04:58 [INFO] [httptools_impl.py] [30128] 121.130.49.242:2819 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 16:04:58 [INFO] [httptools_impl.py] [30128] 121.130.49.242:2819 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 16:38:09 [INFO] [httptools_impl.py] [30128] 121.161.139.229:59042 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 16:38:09 [INFO] [httptools_impl.py] [30128] 121.161.139.229:59042 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 17:01:54 [INFO] [httptools_impl.py] [30128] 118.235.3.247:54658 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 17:01:54 [INFO] [httptools_impl.py] [30128] 118.235.3.247:54658 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 18:22:14 [INFO] [httptools_impl.py] [30128] 61.77.159.69:50279 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 18:22:14 [INFO] [httptools_impl.py] [30128] 61.77.159.69:50279 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 18:22:14 [INFO] [httptools_impl.py] [30128] 61.77.159.69:50279 - "[1mGET /dist_methology?etf_tkr=AIQ HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-04 18:23:39 [INFO] [httptools_impl.py] [30128] 61.77.159.69:50619 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 18:23:39 [INFO] [httptools_impl.py] [30128] 61.77.159.69:50646 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 18:23:45 [INFO] [httptools_impl.py] [30128] 61.77.159.69:50619 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 18:23:45 [INFO] [httptools_impl.py] [30128] 61.77.159.69:50619 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 18:23:56 [INFO] [httptools_impl.py] [30128] 61.77.159.69:50619 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 18:23:56 [INFO] [httptools_impl.py] [30128] 61.77.159.69:50724 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 18:24:01 [INFO] [httptools_impl.py] [30128] 61.77.159.69:50619 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 18:24:01 [INFO] [httptools_impl.py] [30128] 61.77.159.69:50619 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 19:56:56 [INFO] [httptools_impl.py] [30128] 103.203.57.20:49362 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-04 20:24:56 [INFO] [httptools_impl.py] [30128] 61.77.159.69:63343 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 20:24:56 [INFO] [httptools_impl.py] [30128] 61.77.159.69:63343 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 20:27:51 [INFO] [httptools_impl.py] [30128] 61.77.159.69:64060 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 20:27:51 [INFO] [httptools_impl.py] [30128] 61.77.159.69:64060 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 20:27:57 [INFO] [httptools_impl.py] [30128] 61.77.159.69:64060 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 20:27:57 [INFO] [httptools_impl.py] [30128] 61.77.159.69:64060 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:26:11 [INFO] [httptools_impl.py] [30128] 27.0.238.181:42945 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:26:16 [INFO] [httptools_impl.py] [30128] 27.0.238.181:36131 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:30:06 [INFO] [httptools_impl.py] [30128] 61.77.159.69:62639 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:30:06 [INFO] [httptools_impl.py] [30128] 61.77.159.69:62672 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:30:10 [INFO] [httptools_impl.py] [30128] 61.77.159.69:62639 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:30:10 [INFO] [httptools_impl.py] [30128] 61.77.159.69:62639 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:32:23 [INFO] [httptools_impl.py] [30128] 61.77.159.69:63213 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:32:23 [INFO] [httptools_impl.py] [30128] 61.77.159.69:63213 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:34:44 [INFO] [httptools_impl.py] [30128] 61.77.159.69:63791 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:34:44 [INFO] [httptools_impl.py] [30128] 61.77.159.69:63791 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:35:40 [INFO] [httptools_impl.py] [30128] 61.77.159.69:64025 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:35:40 [INFO] [httptools_impl.py] [30128] 61.77.159.69:64025 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:35:52 [INFO] [httptools_impl.py] [30128] 61.77.159.69:64073 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:35:52 [INFO] [httptools_impl.py] [30128] 61.77.159.69:64073 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:38:11 [INFO] [httptools_impl.py] [30128] 61.77.159.69:64648 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:38:11 [INFO] [httptools_impl.py] [30128] 61.77.159.69:64648 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:39:59 [INFO] [httptools_impl.py] [30128] 61.77.159.69:65080 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:39:59 [INFO] [httptools_impl.py] [30128] 61.77.159.69:65080 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:40:09 [INFO] [httptools_impl.py] [30128] 61.77.159.69:65080 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:40:09 [INFO] [httptools_impl.py] [30128] 61.77.159.69:65080 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:40:51 [INFO] [httptools_impl.py] [30128] 61.77.159.69:65302 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:40:51 [INFO] [httptools_impl.py] [30128] 61.77.159.69:65302 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:40:57 [INFO] [httptools_impl.py] [30128] 61.77.159.69:65302 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:40:57 [INFO] [httptools_impl.py] [30128] 61.77.159.69:65302 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:42:49 [INFO] [httptools_impl.py] [30128] 61.77.159.69:49396 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:42:49 [INFO] [httptools_impl.py] [30128] 61.77.159.69:49396 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:42:54 [INFO] [httptools_impl.py] [30128] 61.77.159.69:49396 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:42:54 [INFO] [httptools_impl.py] [30128] 61.77.159.69:49396 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:43:23 [INFO] [httptools_impl.py] [30128] 61.77.159.69:49541 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:43:23 [INFO] [httptools_impl.py] [30128] 61.77.159.69:49541 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:43:32 [INFO] [httptools_impl.py] [30128] 61.77.159.69:49541 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:43:32 [INFO] [httptools_impl.py] [30128] 61.77.159.69:49541 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:43:41 [INFO] [httptools_impl.py] [30128] 61.77.159.69:49624 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:43:41 [INFO] [httptools_impl.py] [30128] 61.77.159.69:49641 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:43:45 [INFO] [httptools_impl.py] [30128] 61.77.159.69:49624 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:43:46 [INFO] [httptools_impl.py] [30128] 61.77.159.69:49624 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:44:09 [INFO] [httptools_impl.py] [30128] 61.77.159.69:49738 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:44:09 [INFO] [httptools_impl.py] [30128] 61.77.159.69:49738 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:45:10 [INFO] [httptools_impl.py] [30128] 61.77.159.69:49996 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:45:10 [INFO] [httptools_impl.py] [30128] 61.77.159.69:49996 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:45:50 [INFO] [httptools_impl.py] [30128] 61.77.159.69:50175 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:45:50 [INFO] [httptools_impl.py] [30128] 61.77.159.69:50175 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:46:39 [INFO] [httptools_impl.py] [30128] 122.35.250.84:57344 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:46:39 [INFO] [httptools_impl.py] [30128] 122.35.250.84:57344 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:47:02 [INFO] [httptools_impl.py] [30128] 61.77.159.69:50482 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:47:02 [INFO] [httptools_impl.py] [30128] 61.77.159.69:50482 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:48:13 [INFO] [httptools_impl.py] [30128] 61.77.159.69:50769 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:48:13 [INFO] [httptools_impl.py] [30128] 61.77.159.69:50769 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:48:22 [INFO] [httptools_impl.py] [30128] 61.77.159.69:50809 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:48:22 [INFO] [httptools_impl.py] [30128] 61.77.159.69:50809 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:51:51 [INFO] [httptools_impl.py] [30128] 61.77.159.69:51681 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:51:51 [INFO] [httptools_impl.py] [30128] 61.77.159.69:51681 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:52:37 [INFO] [httptools_impl.py] [30128] 61.77.159.69:51885 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:52:37 [INFO] [httptools_impl.py] [30128] 61.77.159.69:51885 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:52:56 [INFO] [httptools_impl.py] [30128] 61.77.159.69:51965 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:52:56 [INFO] [httptools_impl.py] [30128] 61.77.159.69:51965 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:53:44 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52162 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:53:44 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52162 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:54:18 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52298 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:54:18 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52298 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:54:33 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52355 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:54:33 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52355 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:54:43 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52408 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:54:43 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52408 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:54:52 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52449 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:54:52 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52449 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:55:14 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52541 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:55:15 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52541 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:55:28 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52609 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:55:43 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52673 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:55:43 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52673 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:56:15 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52802 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:56:15 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52802 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:56:20 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52802 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:56:20 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52802 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:56:33 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52885 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:56:33 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52885 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:56:36 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52885 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:56:36 [INFO] [httptools_impl.py] [30128] 61.77.159.69:52885 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:57:49 [INFO] [httptools_impl.py] [30128] 61.77.159.69:53189 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:57:49 [INFO] [httptools_impl.py] [30128] 61.77.159.69:53189 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:58:15 [INFO] [httptools_impl.py] [30128] 61.77.159.69:53293 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:58:15 [INFO] [httptools_impl.py] [30128] 61.77.159.69:53293 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:58:25 [INFO] [httptools_impl.py] [30128] 61.77.159.69:53341 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:58:25 [INFO] [httptools_impl.py] [30128] 61.77.159.69:53341 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:58:45 [INFO] [httptools_impl.py] [30128] 61.77.159.69:53422 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:58:45 [INFO] [httptools_impl.py] [30128] 61.77.159.69:53422 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:58:53 [INFO] [httptools_impl.py] [30128] 61.77.159.69:53458 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:58:53 [INFO] [httptools_impl.py] [30128] 61.77.159.69:53458 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:59:21 [INFO] [httptools_impl.py] [30128] 61.77.159.69:53574 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 21:59:21 [INFO] [httptools_impl.py] [30128] 61.77.159.69:53574 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:00:13 [INFO] [httptools_impl.py] [30128] 61.77.159.69:53785 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:00:13 [INFO] [httptools_impl.py] [30128] 61.77.159.69:53785 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:03:40 [INFO] [httptools_impl.py] [30128] 61.77.159.69:54624 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:03:40 [INFO] [httptools_impl.py] [30128] 61.77.159.69:54624 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:03:44 [INFO] [httptools_impl.py] [30128] 61.77.159.69:54624 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:03:44 [INFO] [httptools_impl.py] [30128] 61.77.159.69:54624 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:04:50 [INFO] [httptools_impl.py] [30128] 61.77.159.69:54909 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:04:50 [INFO] [httptools_impl.py] [30128] 61.77.159.69:54909 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:05:23 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55047 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:05:23 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55047 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:05:28 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55047 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:05:28 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55047 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:05:32 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55047 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:05:32 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55047 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:05:35 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55047 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:05:35 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55047 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:05:39 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55047 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:05:39 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55047 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:05:43 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55047 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:05:43 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55047 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:06:27 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55303 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:06:27 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55303 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:07:09 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55476 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:07:09 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55476 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:07:16 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55476 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:07:16 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55476 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:08:23 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55782 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:08:23 [INFO] [httptools_impl.py] [30128] 61.77.159.69:55782 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:13:06 [INFO] [httptools_impl.py] [30128] 61.77.159.69:56954 - "[1mGET /stk_filtering?etf_tkr= HTTP/1.1[0m" [91m500 Internal Server Error[0m
+2023-09-04 22:16:15 [INFO] [httptools_impl.py] [30128] 61.77.159.69:57444 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [91m500 Internal Server Error[0m
+2023-09-04 22:25:37 [INFO] [httptools_impl.py] [1085] 61.77.159.69:59889 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:25:37 [INFO] [httptools_impl.py] [1085] 61.77.159.69:59889 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:25:39 [INFO] [httptools_impl.py] [1085] 121.130.49.242:18557 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:25:39 [INFO] [httptools_impl.py] [1085] 121.130.49.242:18557 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:33:08 [INFO] [httptools_impl.py] [1085] 61.77.159.69:61754 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:33:08 [INFO] [httptools_impl.py] [1085] 61.77.159.69:61754 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:33:22 [INFO] [httptools_impl.py] [1085] 121.130.49.242:18903 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:33:22 [INFO] [httptools_impl.py] [1085] 121.130.49.242:18903 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:33:41 [INFO] [httptools_impl.py] [1085] 61.77.159.69:61898 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:33:41 [INFO] [httptools_impl.py] [1085] 61.77.159.69:61898 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:34:01 [INFO] [httptools_impl.py] [1085] 61.77.159.69:61979 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:34:01 [INFO] [httptools_impl.py] [1085] 61.77.159.69:61979 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:34:20 [INFO] [httptools_impl.py] [1085] 121.130.49.242:18958 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:34:20 [INFO] [httptools_impl.py] [1085] 121.130.49.242:18958 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:34:36 [INFO] [httptools_impl.py] [1085] 121.130.49.242:18983 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:34:36 [INFO] [httptools_impl.py] [1085] 121.130.49.242:18983 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:34:57 [INFO] [httptools_impl.py] [1085] 121.130.49.242:18997 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:34:57 [INFO] [httptools_impl.py] [1085] 121.130.49.242:18997 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:35:07 [INFO] [httptools_impl.py] [1085] 121.130.49.242:19010 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:35:07 [INFO] [httptools_impl.py] [1085] 121.130.49.242:19010 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:35:14 [INFO] [httptools_impl.py] [1085] 61.77.159.69:62294 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:35:14 [INFO] [httptools_impl.py] [1085] 61.77.159.69:62294 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:36:06 [INFO] [httptools_impl.py] [1085] 61.77.159.69:62526 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:36:06 [INFO] [httptools_impl.py] [1085] 61.77.159.69:62526 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:36:41 [INFO] [httptools_impl.py] [1085] 61.77.159.69:62677 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:36:41 [INFO] [httptools_impl.py] [1085] 61.77.159.69:62677 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:36:57 [INFO] [httptools_impl.py] [1085] 61.77.159.69:62746 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:36:57 [INFO] [httptools_impl.py] [1085] 61.77.159.69:62746 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:37:02 [INFO] [httptools_impl.py] [1085] 61.77.159.69:62746 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:37:02 [INFO] [httptools_impl.py] [1085] 61.77.159.69:62746 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:37:12 [INFO] [httptools_impl.py] [1085] 61.77.159.69:62835 - "[1mGET /stk_filtering?etf_tkr= HTTP/1.1[0m" [91m500 Internal Server Error[0m
+2023-09-04 22:37:20 [INFO] [httptools_impl.py] [1085] 61.77.159.69:62859 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:37:20 [INFO] [httptools_impl.py] [1085] 61.77.159.69:62859 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:39:14 [INFO] [httptools_impl.py] [1085] 116.45.73.71:53977 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:39:14 [INFO] [httptools_impl.py] [1085] 116.45.73.71:53977 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:52:58 [INFO] [httptools_impl.py] [1085] 61.77.159.69:50390 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:52:58 [INFO] [httptools_impl.py] [1085] 61.77.159.69:50390 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:54:27 [INFO] [httptools_impl.py] [1085] 61.77.159.69:63259 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:54:27 [INFO] [httptools_impl.py] [1085] 61.77.159.69:63259 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:55:36 [INFO] [httptools_impl.py] [1085] 122.35.250.84:57967 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:55:36 [INFO] [httptools_impl.py] [1085] 122.35.250.84:57967 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:58:30 [INFO] [httptools_impl.py] [1085] 61.77.159.69:51789 - "[1mGET /docs HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 22:58:30 [INFO] [httptools_impl.py] [1085] 61.77.159.69:51789 - "[1mGET /openapi.json HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 23:24:50 [INFO] [httptools_impl.py] [1085] 61.77.159.69:63287 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 23:24:50 [INFO] [httptools_impl.py] [1085] 61.77.159.69:63287 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 23:32:49 [INFO] [httptools_impl.py] [1085] 61.77.159.69:60354 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 23:32:49 [INFO] [httptools_impl.py] [1085] 61.77.159.69:60354 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 23:41:26 [INFO] [httptools_impl.py] [1085] 121.130.49.242:22752 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 23:41:26 [INFO] [httptools_impl.py] [1085] 121.130.49.242:22752 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 23:59:06 [INFO] [httptools_impl.py] [1085] 61.77.159.69:64770 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 23:59:06 [INFO] [httptools_impl.py] [1085] 61.77.159.69:64770 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-04 23:59:10 [INFO] [httptools_impl.py] [1085] 61.77.159.69:64770 - "[1mGET /stk_filtering?etf_tkr= HTTP/1.1[0m" [91m500 Internal Server Error[0m
+2023-09-05 00:00:08 [INFO] [httptools_impl.py] [1085] 61.77.159.69:64794 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:00:08 [INFO] [httptools_impl.py] [1085] 61.77.159.69:64794 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:00:34 [INFO] [httptools_impl.py] [1085] 61.77.159.69:64808 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:00:34 [INFO] [httptools_impl.py] [1085] 61.77.159.69:64808 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:18:09 [INFO] [httptools_impl.py] [1085] 61.77.159.69:65109 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:18:09 [INFO] [httptools_impl.py] [1085] 61.77.159.69:65109 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:19:06 [INFO] [httptools_impl.py] [1085] 61.77.159.69:65166 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:19:06 [INFO] [httptools_impl.py] [1085] 61.77.159.69:65166 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:19:57 [INFO] [httptools_impl.py] [1085] 121.130.49.242:24369 - "[1mGET /stk_filtering?etf_tkr= HTTP/1.1[0m" [91m500 Internal Server Error[0m
+2023-09-05 00:20:45 [INFO] [httptools_impl.py] [1085] 61.77.159.69:65203 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:20:45 [INFO] [httptools_impl.py] [1085] 61.77.159.69:65203 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:20:53 [INFO] [httptools_impl.py] [1085] 61.77.159.69:65203 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:20:54 [INFO] [httptools_impl.py] [1085] 61.77.159.69:65203 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:23:59 [INFO] [httptools_impl.py] [1085] 61.77.159.69:63861 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:23:59 [INFO] [httptools_impl.py] [1085] 61.77.159.69:63861 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:24:01 [INFO] [httptools_impl.py] [1085] 106.101.131.150:59144 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:24:01 [INFO] [httptools_impl.py] [1085] 106.101.131.150:59144 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:24:42 [INFO] [httptools_impl.py] [1085] 61.77.159.69:63869 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:24:42 [INFO] [httptools_impl.py] [1085] 61.77.159.69:63869 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:25:04 [INFO] [httptools_impl.py] [1085] 106.101.131.150:59168 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:25:04 [INFO] [httptools_impl.py] [1085] 106.101.131.150:59168 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:27:26 [INFO] [httptools_impl.py] [1085] 61.77.159.69:64027 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:27:26 [INFO] [httptools_impl.py] [1085] 61.77.159.69:64027 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:28:28 [INFO] [httptools_impl.py] [1085] 27.0.238.118:44481 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:30:52 [INFO] [httptools_impl.py] [1085] 106.101.131.150:59257 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:30:52 [INFO] [httptools_impl.py] [1085] 106.101.131.150:59257 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:31:57 [INFO] [httptools_impl.py] [1085] 106.101.131.150:59273 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 00:31:57 [INFO] [httptools_impl.py] [1085] 106.101.131.150:59273 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 01:23:20 [INFO] [httptools_impl.py] [1085] 167.94.146.60:38672 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-05 01:23:21 [INFO] [httptools_impl.py] [1085] 167.94.146.60:36238 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-05 01:23:23 [INFO] [httptools_impl.py] [1085] 112.169.123.30:56426 - "[1mGET /stk_filtering?etf_tkr=CHB HTTP/1.1[0m" [91m500 Internal Server Error[0m
+2023-09-05 02:56:16 [INFO] [httptools_impl.py] [1085] 185.216.140.186:36602 - "[1mGET /ping.js HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-05 03:47:23 [INFO] [httptools_impl.py] [1085] 198.199.94.69:44208 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-05 04:45:46 [INFO] [httptools_impl.py] [1085] 106.101.131.150:60313 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 04:45:47 [INFO] [httptools_impl.py] [1085] 106.101.131.150:60313 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 04:46:14 [INFO] [httptools_impl.py] [1085] 106.101.131.150:60319 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 04:46:14 [INFO] [httptools_impl.py] [1085] 106.101.131.150:60319 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 04:58:41 [INFO] [httptools_impl.py] [1085] 43.133.134.155:40312 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-05 08:58:06 [INFO] [httptools_impl.py] [1085] 121.130.49.242:46032 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 08:58:06 [INFO] [httptools_impl.py] [1085] 121.130.49.242:46032 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 10:04:34 [INFO] [httptools_impl.py] [1085] 121.130.49.242:48812 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 10:04:34 [INFO] [httptools_impl.py] [1085] 121.130.49.242:48812 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 10:05:33 [INFO] [httptools_impl.py] [1085] 121.130.49.242:48852 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 10:05:33 [INFO] [httptools_impl.py] [1085] 121.130.49.242:48852 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 10:53:13 [INFO] [httptools_impl.py] [1085] 185.216.140.186:49218 - "[1mGET /ping.js HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-05 12:18:02 [INFO] [httptools_impl.py] [1085] 121.130.49.242:58035 - "[1mGET /stk_filtering?etf_tkr=AGNG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 12:18:02 [INFO] [httptools_impl.py] [1085] 121.130.49.242:58035 - "[1mGET /common_issues?etf_tkr=AGNG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 12:22:22 [INFO] [httptools_impl.py] [1085] 121.130.49.242:58235 - "[1mGET /stk_filtering?etf_tkr=AGNG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 12:22:22 [INFO] [httptools_impl.py] [1085] 121.130.49.242:58235 - "[1mGET /common_issues?etf_tkr=AGNG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 12:27:23 [INFO] [httptools_impl.py] [1085] 121.130.49.242:58590 - "[1mGET /stk_filtering?etf_tkr=AGNG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 12:27:23 [INFO] [httptools_impl.py] [1085] 121.130.49.242:58590 - "[1mGET /common_issues?etf_tkr=AGNG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 12:37:50 [INFO] [httptools_impl.py] [1085] 61.77.159.69:50582 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 12:37:50 [INFO] [httptools_impl.py] [1085] 61.77.159.69:50582 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 12:39:20 [INFO] [httptools_impl.py] [1085] 61.77.159.69:50948 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 12:39:20 [INFO] [httptools_impl.py] [1085] 61.77.159.69:50948 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 12:58:17 [INFO] [httptools_impl.py] [1085] 121.130.49.242:51832 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 12:58:17 [INFO] [httptools_impl.py] [1085] 121.130.49.242:51832 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:02:38 [INFO] [httptools_impl.py] [1085] 121.130.49.242:60792 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:02:38 [INFO] [httptools_impl.py] [1085] 121.130.49.242:60792 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:22:48 [INFO] [httptools_impl.py] [11931] 121.130.49.242:61668 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:22:48 [INFO] [httptools_impl.py] [11931] 121.130.49.242:61668 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:22:58 [INFO] [httptools_impl.py] [11931] 121.130.49.242:61677 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:22:58 [INFO] [httptools_impl.py] [11931] 121.130.49.242:61677 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:23:08 [INFO] [httptools_impl.py] [11931] 121.130.49.242:61689 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:23:08 [INFO] [httptools_impl.py] [11931] 121.130.49.242:61689 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:23:15 [INFO] [httptools_impl.py] [11931] 121.130.49.242:61698 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:23:15 [INFO] [httptools_impl.py] [11931] 121.130.49.242:61698 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:24:11 [INFO] [httptools_impl.py] [11931] 121.130.49.242:61763 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:24:11 [INFO] [httptools_impl.py] [11931] 121.130.49.242:61763 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:25:26 [INFO] [httptools_impl.py] [11931] 121.130.49.242:61835 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:25:26 [INFO] [httptools_impl.py] [11931] 121.130.49.242:61835 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:26:07 [INFO] [httptools_impl.py] [11931] 121.130.49.242:61872 - "[1mGET /stk_filtering?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:26:07 [INFO] [httptools_impl.py] [11931] 121.130.49.242:61872 - "[1mGET /common_issues?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:28:15 [INFO] [httptools_impl.py] [11931] 121.130.49.242:61976 - "[1mGET /stk_filtering?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:28:15 [INFO] [httptools_impl.py] [11931] 121.130.49.242:61976 - "[1mGET /common_issues?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:28:17 [INFO] [httptools_impl.py] [11931] 61.77.159.69:62950 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:28:17 [INFO] [httptools_impl.py] [11931] 61.77.159.69:62950 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:28:33 [INFO] [httptools_impl.py] [11931] 121.130.49.242:61995 - "[1mGET /stk_filtering?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:28:33 [INFO] [httptools_impl.py] [11931] 121.130.49.242:61995 - "[1mGET /common_issues?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:28:50 [INFO] [httptools_impl.py] [11931] 61.77.159.69:63086 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:28:50 [INFO] [httptools_impl.py] [11931] 61.77.159.69:63086 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:28:53 [INFO] [httptools_impl.py] [11931] 61.77.159.69:63086 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:28:53 [INFO] [httptools_impl.py] [11931] 61.77.159.69:63086 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:29:38 [INFO] [httptools_impl.py] [11931] 121.130.49.242:62038 - "[1mGET /stk_filtering?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:29:38 [INFO] [httptools_impl.py] [11931] 121.130.49.242:62038 - "[1mGET /common_issues?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:29:44 [INFO] [httptools_impl.py] [11931] 121.130.49.242:62038 - "[1mGET /stk_filtering?etf_tkr=AGNG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:29:44 [INFO] [httptools_impl.py] [11931] 121.130.49.242:62038 - "[1mGET /common_issues?etf_tkr=AGNG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:29:53 [INFO] [httptools_impl.py] [11931] 61.77.159.69:63350 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:29:53 [INFO] [httptools_impl.py] [11931] 61.77.159.69:63350 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:29:55 [INFO] [httptools_impl.py] [11931] 61.77.159.69:63350 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:29:55 [INFO] [httptools_impl.py] [11931] 61.77.159.69:63350 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:30:08 [INFO] [httptools_impl.py] [11931] 121.130.49.242:62060 - "[1mGET /stk_filtering?etf_tkr=AGNG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:30:08 [INFO] [httptools_impl.py] [11931] 121.130.49.242:62060 - "[1mGET /common_issues?etf_tkr=AGNG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:30:21 [INFO] [httptools_impl.py] [11931] 61.77.159.69:63470 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:30:21 [INFO] [httptools_impl.py] [11931] 61.77.159.69:63470 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:31:14 [INFO] [httptools_impl.py] [11931] 121.130.49.242:62108 - "[1mGET /stk_filtering?etf_tkr=AGNG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:31:14 [INFO] [httptools_impl.py] [11931] 121.130.49.242:62108 - "[1mGET /common_issues?etf_tkr=AGNG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:31:19 [INFO] [httptools_impl.py] [11931] 61.77.159.69:63707 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:31:19 [INFO] [httptools_impl.py] [11931] 61.77.159.69:63707 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:31:27 [INFO] [httptools_impl.py] [11931] 61.77.159.69:63743 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:31:27 [INFO] [httptools_impl.py] [11931] 61.77.159.69:63743 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:32:40 [INFO] [httptools_impl.py] [11931] 121.130.49.242:62214 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:32:40 [INFO] [httptools_impl.py] [11931] 121.130.49.242:62214 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:40:15 [INFO] [httptools_impl.py] [11931] 121.130.49.242:62563 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:40:15 [INFO] [httptools_impl.py] [11931] 121.130.49.242:62563 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:44:02 [INFO] [httptools_impl.py] [11931] 61.77.159.69:50674 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 13:44:02 [INFO] [httptools_impl.py] [11931] 61.77.159.69:50674 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 14:20:28 [INFO] [httptools_impl.py] [11931] 106.101.131.150:62020 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 14:20:28 [INFO] [httptools_impl.py] [11931] 106.101.131.150:62020 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 14:22:34 [INFO] [httptools_impl.py] [11931] 61.77.159.69:52255 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 14:22:34 [INFO] [httptools_impl.py] [11931] 61.77.159.69:52255 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:06:27 [INFO] [httptools_impl.py] [12972] 121.130.49.242:5566 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:06:27 [INFO] [httptools_impl.py] [12972] 121.130.49.242:5566 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:07:58 [INFO] [httptools_impl.py] [12972] 121.130.49.242:5633 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:07:58 [INFO] [httptools_impl.py] [12972] 121.130.49.242:5633 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:08:08 [INFO] [httptools_impl.py] [12972] 121.130.49.242:5644 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:08:08 [INFO] [httptools_impl.py] [12972] 121.130.49.242:5644 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:14:30 [INFO] [httptools_impl.py] [12972] 121.130.49.242:5960 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:14:30 [INFO] [httptools_impl.py] [12972] 121.130.49.242:5960 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:17:17 [INFO] [httptools_impl.py] [12972] 121.130.49.242:6107 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:17:17 [INFO] [httptools_impl.py] [12972] 121.130.49.242:6107 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:19:18 [INFO] [httptools_impl.py] [12972] 121.130.49.242:6210 - "[1mGET /stk_filtering?etf_tkr=CLOU HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:19:18 [INFO] [httptools_impl.py] [12972] 121.130.49.242:6210 - "[1mGET /common_issues?etf_tkr=CLOU HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:40:55 [INFO] [httptools_impl.py] [12972] 61.77.159.69:52483 - "[1mGET /stk_filtering?etf_tkr=MILN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:40:55 [INFO] [httptools_impl.py] [12972] 61.77.159.69:52483 - "[1mGET /common_issues?etf_tkr=MILN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:44:11 [INFO] [httptools_impl.py] [12972] 61.77.159.69:52582 - "[1mGET /stk_filtering?etf_tkr=MILN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:44:11 [INFO] [httptools_impl.py] [12972] 61.77.159.69:52582 - "[1mGET /common_issues?etf_tkr=MILN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:44:19 [INFO] [httptools_impl.py] [12972] 61.77.159.69:52588 - "[1mGET /stk_filtering?etf_tkr=MILN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:44:19 [INFO] [httptools_impl.py] [12972] 61.77.159.69:52588 - "[1mGET /common_issues?etf_tkr=MILN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:44:47 [INFO] [httptools_impl.py] [12972] 121.130.49.242:54044 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:44:47 [INFO] [httptools_impl.py] [12972] 121.130.49.242:54044 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:45:20 [INFO] [httptools_impl.py] [12972] 121.130.49.242:54088 - "[1mGET /stk_filtering?etf_tkr=MILN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 15:45:20 [INFO] [httptools_impl.py] [12972] 121.130.49.242:54088 - "[1mGET /common_issues?etf_tkr=MILN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 16:03:47 [INFO] [httptools_impl.py] [12972] 61.77.159.69:56886 - "[1mGET /stk_filtering?etf_tkr=PAVE HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 16:03:47 [INFO] [httptools_impl.py] [12972] 61.77.159.69:56886 - "[1mGET /common_issues?etf_tkr=PAVE HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 16:07:52 [INFO] [httptools_impl.py] [12972] 61.77.159.69:57851 - "[1mGET /stk_filtering?etf_tkr=PAVE HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 16:07:52 [INFO] [httptools_impl.py] [12972] 61.77.159.69:57851 - "[1mGET /common_issues?etf_tkr=PAVE HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 16:08:07 [INFO] [httptools_impl.py] [12972] 61.77.159.69:57921 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 16:08:07 [INFO] [httptools_impl.py] [12972] 61.77.159.69:57921 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 16:08:45 [INFO] [httptools_impl.py] [12972] 121.130.49.242:8492 - "[1mGET /stk_filtering?etf_tkr=CLOU HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 16:08:45 [INFO] [httptools_impl.py] [12972] 121.130.49.242:8492 - "[1mGET /common_issues?etf_tkr=CLOU HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 17:02:22 [INFO] [httptools_impl.py] [12972] 121.130.49.242:11708 - "[1mGET /stk_filtering?etf_tkr=CLOU HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 17:02:22 [INFO] [httptools_impl.py] [12972] 121.130.49.242:11708 - "[1mGET /common_issues?etf_tkr=CLOU HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 17:04:20 [INFO] [httptools_impl.py] [12972] 121.130.49.242:11808 - "[1mGET /stk_filtering?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-05 17:04:20 [INFO] [httptools_impl.py] [12972] 121.130.49.242:11808 - "[1mGET /common_issues?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-06 01:57:24 [INFO] [httptools_impl.py] [12972] 178.128.27.83:48618 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-06 01:57:25 [INFO] [httptools_impl.py] [12972] 178.128.27.83:48636 - "[1mGET /api/islogged HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-06 08:04:54 [INFO] [httptools_impl.py] [12972] 167.94.145.56:55890 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-06 08:04:54 [INFO] [httptools_impl.py] [12972] 167.94.145.56:41314 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-06 11:59:54 [INFO] [httptools_impl.py] [12972] 184.105.139.123:22139 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-06 12:00:28 [INFO] [httptools_impl.py] [12972] 184.105.139.123:40433 - "[1mGET /favicon.ico HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-06 12:00:49 [INFO] [httptools_impl.py] [12972] 184.105.139.115:29311 - "[1mGET /?format=json HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-06 12:23:29 [INFO] [httptools_impl.py] [12972] 94.102.61.48:34184 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-06 13:06:30 [INFO] [httptools_impl.py] [12972] 119.194.50.170:49741 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-06 13:06:30 [INFO] [httptools_impl.py] [12972] 119.194.50.170:49741 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-06 15:28:00 [INFO] [httptools_impl.py] [12972] 109.205.213.94:43044 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-06 17:39:36 [INFO] [httptools_impl.py] [12972] 183.136.225.9:17293 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-06 17:39:36 [INFO] [httptools_impl.py] [12972] 183.136.225.9:18395 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-06 17:39:36 [INFO] [httptools_impl.py] [12972] 183.136.225.9:18507 - "[1mGET /favicon.ico HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-06 17:40:01 [INFO] [httptools_impl.py] [12972] 183.136.225.9:51286 - "[1mGET /favicon.ico HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-06 18:40:59 [INFO] [httptools_impl.py] [12972] 185.216.140.186:48510 - "[1mGET /ping.js HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-06 20:38:03 [INFO] [httptools_impl.py] [12972] 39.117.160.57:54170 - "[1mGET /stk_filtering?etf_tkr=MILN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-06 20:38:03 [INFO] [httptools_impl.py] [12972] 39.117.160.57:54170 - "[1mGET /common_issues?etf_tkr=MILN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-06 21:21:34 [INFO] [httptools_impl.py] [12972] 162.142.125.213:58388 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-06 21:21:35 [INFO] [httptools_impl.py] [12972] 162.142.125.213:51154 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-06 23:35:48 [INFO] [httptools_impl.py] [12972] 122.35.250.84:62614 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-06 23:35:48 [INFO] [httptools_impl.py] [12972] 122.35.250.84:62614 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-06 23:36:43 [INFO] [httptools_impl.py] [12972] 122.35.250.84:62630 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-06 23:36:43 [INFO] [httptools_impl.py] [12972] 122.35.250.84:62630 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-06 23:47:46 [INFO] [httptools_impl.py] [12972] 122.35.250.84:62800 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-06 23:47:46 [INFO] [httptools_impl.py] [12972] 122.35.250.84:62800 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 04:29:17 [INFO] [httptools_impl.py] [12972] 185.180.143.81:41804 - "[1mGET /admin/ HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-07 04:29:18 [INFO] [httptools_impl.py] [12972] 185.180.143.81:41818 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-07 04:29:33 [INFO] [httptools_impl.py] [12972] 185.180.143.81:54064 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-07 10:49:49 [INFO] [httptools_impl.py] [12972] 167.94.146.52:52718 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-07 10:49:50 [INFO] [httptools_impl.py] [12972] 167.94.146.52:43316 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-07 11:24:29 [INFO] [httptools_impl.py] [12972] 210.106.232.162:62834 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 11:24:29 [INFO] [httptools_impl.py] [12972] 210.106.232.162:62834 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 11:46:37 [INFO] [httptools_impl.py] [12972] 210.106.232.27:54845 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 11:46:37 [INFO] [httptools_impl.py] [12972] 210.106.232.27:54845 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 11:54:32 [INFO] [httptools_impl.py] [12972] 210.106.232.27:54957 - "[1mGET /stk_filtering?etf_tkr=SNSR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 11:54:32 [INFO] [httptools_impl.py] [12972] 210.106.232.27:54957 - "[1mGET /common_issues?etf_tkr=SNSR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 11:55:22 [INFO] [httptools_impl.py] [12972] 210.106.232.238:65298 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 11:55:22 [INFO] [httptools_impl.py] [12972] 210.106.232.238:65298 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 11:58:16 [INFO] [httptools_impl.py] [12972] 210.106.232.25:61648 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 11:58:16 [INFO] [httptools_impl.py] [12972] 210.106.232.25:61648 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 11:58:28 [INFO] [httptools_impl.py] [12972] 210.106.232.238:65331 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 11:58:28 [INFO] [httptools_impl.py] [12972] 210.106.232.238:65331 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 11:58:38 [INFO] [httptools_impl.py] [12972] 210.106.232.25:61671 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 11:58:38 [INFO] [httptools_impl.py] [12972] 210.106.232.25:61671 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:00:39 [INFO] [httptools_impl.py] [12972] 210.106.232.238:65346 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:00:39 [INFO] [httptools_impl.py] [12972] 210.106.232.238:65346 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:00:44 [INFO] [httptools_impl.py] [12972] 210.106.232.162:63930 - "[1mGET /stk_filtering?etf_tkr=SNSR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:00:44 [INFO] [httptools_impl.py] [12972] 210.106.232.162:63930 - "[1mGET /common_issues?etf_tkr=SNSR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:01:00 [INFO] [httptools_impl.py] [12972] 210.106.232.238:65351 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:01:00 [INFO] [httptools_impl.py] [12972] 210.106.232.238:65351 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:02:13 [INFO] [httptools_impl.py] [12972] 210.106.232.27:55023 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:02:13 [INFO] [httptools_impl.py] [12972] 210.106.232.27:55023 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:08:06 [INFO] [httptools_impl.py] [12972] 210.106.232.162:64212 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:08:06 [INFO] [httptools_impl.py] [12972] 210.106.232.162:64212 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:08:06 [INFO] [httptools_impl.py] [12972] 210.106.232.27:56188 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:08:06 [INFO] [httptools_impl.py] [12972] 210.106.232.27:56188 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:11:16 [INFO] [httptools_impl.py] [12972] 210.106.232.238:65437 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:11:16 [INFO] [httptools_impl.py] [12972] 210.106.232.238:65437 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:16:38 [INFO] [httptools_impl.py] [12972] 211.36.144.250:64317 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:16:38 [INFO] [httptools_impl.py] [12972] 211.36.144.250:64317 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:17:26 [INFO] [httptools_impl.py] [12972] 175.223.14.28:18050 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:17:26 [INFO] [httptools_impl.py] [12972] 175.223.14.28:18050 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:17:40 [INFO] [httptools_impl.py] [12972] 211.36.144.250:61548 - "[1mGET /stk_filtering?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:17:41 [INFO] [httptools_impl.py] [12972] 211.36.144.250:61548 - "[1mGET /common_issues?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:18:03 [INFO] [httptools_impl.py] [12972] 175.223.14.28:38766 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:18:03 [INFO] [httptools_impl.py] [12972] 175.223.14.28:38766 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:18:21 [INFO] [httptools_impl.py] [12972] 210.106.232.25:61863 - "[1mGET /stk_filtering?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:18:21 [INFO] [httptools_impl.py] [12972] 210.106.232.25:61863 - "[1mGET /common_issues?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:18:29 [INFO] [httptools_impl.py] [12972] 118.235.12.110:49432 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:18:30 [INFO] [httptools_impl.py] [12972] 118.235.12.110:49432 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:19:16 [INFO] [httptools_impl.py] [12972] 175.223.14.28:16896 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:19:17 [INFO] [httptools_impl.py] [12972] 175.223.14.28:16896 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:20:07 [INFO] [httptools_impl.py] [12972] 175.223.14.28:22883 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:20:07 [INFO] [httptools_impl.py] [12972] 175.223.14.28:22883 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:20:09 [INFO] [httptools_impl.py] [12972] 175.223.14.28:22883 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:20:10 [INFO] [httptools_impl.py] [12972] 175.223.14.28:22883 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:20:14 [INFO] [httptools_impl.py] [12972] 175.223.14.28:22883 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:20:14 [INFO] [httptools_impl.py] [12972] 175.223.14.28:22883 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:21:53 [INFO] [httptools_impl.py] [12972] 121.140.159.181:50676 - "[1mGET /stk_filtering?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:21:53 [INFO] [httptools_impl.py] [12972] 121.140.159.181:50676 - "[1mGET /common_issues?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:24:36 [INFO] [httptools_impl.py] [12972] 211.36.131.214:23990 - "[1mGET /stk_filtering?etf_tkr=AQWA HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:24:36 [INFO] [httptools_impl.py] [12972] 211.36.131.214:23990 - "[1mGET /common_issues?etf_tkr=AQWA HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:26:58 [INFO] [httptools_impl.py] [12972] 14.33.9.149:55503 - "[1mGET /stk_filtering?etf_tkr=SOCL HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:26:59 [INFO] [httptools_impl.py] [12972] 14.33.9.149:55503 - "[1mGET /common_issues?etf_tkr=SOCL HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:27:39 [INFO] [httptools_impl.py] [12972] 106.101.130.64:65013 - "[1mGET /stk_filtering?etf_tkr=PAVE HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:27:39 [INFO] [httptools_impl.py] [12972] 106.101.130.64:65013 - "[1mGET /common_issues?etf_tkr=PAVE HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:28:25 [INFO] [httptools_impl.py] [12972] 220.149.255.9:50087 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:28:25 [INFO] [httptools_impl.py] [12972] 220.149.255.9:50087 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:29:24 [INFO] [httptools_impl.py] [12972] 58.233.108.63:56353 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:29:24 [INFO] [httptools_impl.py] [12972] 58.233.108.63:56353 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:31:05 [INFO] [httptools_impl.py] [12972] 58.233.108.63:56386 - "[1mGET /stk_filtering?etf_tkr=AGNG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:31:05 [INFO] [httptools_impl.py] [12972] 58.233.108.63:56386 - "[1mGET /common_issues?etf_tkr=AGNG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:31:10 [INFO] [httptools_impl.py] [12972] 223.62.202.23:60022 - "[1mGET /stk_filtering?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:31:10 [INFO] [httptools_impl.py] [12972] 223.62.202.23:60022 - "[1mGET /common_issues?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:31:13 [INFO] [httptools_impl.py] [12972] 1.239.71.73:51067 - "[1mGET /stk_filtering?etf_tkr=FINX HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:31:13 [INFO] [httptools_impl.py] [12972] 1.239.71.73:51067 - "[1mGET /common_issues?etf_tkr=FINX HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:31:17 [INFO] [httptools_impl.py] [12972] 104.28.68.32:44826 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:31:18 [INFO] [httptools_impl.py] [12972] 104.28.68.32:44826 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:31:19 [INFO] [httptools_impl.py] [12972] 1.239.71.73:51075 - "[1mGET /stk_filtering?etf_tkr=FINX HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:31:19 [INFO] [httptools_impl.py] [12972] 1.239.71.73:51075 - "[1mGET /common_issues?etf_tkr=FINX HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:35:04 [INFO] [httptools_impl.py] [12972] 121.124.169.18:64715 - "[1mGET /stk_filtering?etf_tkr=RAYS HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:35:04 [INFO] [httptools_impl.py] [12972] 121.124.169.18:64715 - "[1mGET /common_issues?etf_tkr=RAYS HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:35:58 [INFO] [httptools_impl.py] [12972] 121.124.169.18:2968 - "[1mGET /stk_filtering?etf_tkr=RAYS HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:35:58 [INFO] [httptools_impl.py] [12972] 121.124.169.18:2968 - "[1mGET /common_issues?etf_tkr=RAYS HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:36:24 [INFO] [httptools_impl.py] [12972] 210.106.232.42:50370 - "[1mGET /stk_filtering?etf_tkr=CLOU HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:36:25 [INFO] [httptools_impl.py] [12972] 106.101.131.150:55261 - "[1mGET /stk_filtering?etf_tkr=CLOU HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:36:25 [INFO] [httptools_impl.py] [12972] 106.101.131.150:55261 - "[1mGET /common_issues?etf_tkr=CLOU HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:38:53 [INFO] [httptools_impl.py] [12972] 223.38.46.104:43632 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:38:54 [INFO] [httptools_impl.py] [12972] 223.38.46.104:43632 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:44:47 [INFO] [httptools_impl.py] [12972] 210.106.232.238:49401 - "[1mGET /stk_filtering?etf_tkr=RNRG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:44:47 [INFO] [httptools_impl.py] [12972] 210.106.232.238:49401 - "[1mGET /common_issues?etf_tkr=RNRG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:44:55 [INFO] [httptools_impl.py] [12972] 210.106.232.238:49408 - "[1mGET /stk_filtering?etf_tkr=RNRG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:44:55 [INFO] [httptools_impl.py] [12972] 210.106.232.238:49408 - "[1mGET /common_issues?etf_tkr=RNRG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:44:58 [INFO] [httptools_impl.py] [12972] 210.106.232.238:49408 - "[1mGET /stk_filtering?etf_tkr=RNRG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:44:58 [INFO] [httptools_impl.py] [12972] 210.106.232.238:49408 - "[1mGET /common_issues?etf_tkr=RNRG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:47:20 [INFO] [httptools_impl.py] [12972] 223.38.56.111:60739 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:47:20 [INFO] [httptools_impl.py] [12972] 223.38.56.111:60739 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:47:37 [INFO] [httptools_impl.py] [12972] 223.38.56.111:60754 - "[1mGET /stk_filtering?etf_tkr=LIT HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:47:37 [INFO] [httptools_impl.py] [12972] 223.38.56.111:60754 - "[1mGET /common_issues?etf_tkr=LIT HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:49:26 [INFO] [httptools_impl.py] [12972] 211.235.73.206:28950 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:49:26 [INFO] [httptools_impl.py] [12972] 211.235.73.206:28950 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:54:47 [INFO] [httptools_impl.py] [12972] 211.235.73.206:56746 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:54:47 [INFO] [httptools_impl.py] [12972] 211.235.73.206:56746 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:58:19 [INFO] [httptools_impl.py] [12972] 110.70.31.6:51197 - "[1mGET /stk_filtering?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:58:19 [INFO] [httptools_impl.py] [12972] 110.70.31.6:51197 - "[1mGET /common_issues?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:58:53 [INFO] [httptools_impl.py] [12972] 110.70.31.6:51204 - "[1mGET /stk_filtering?etf_tkr=KROP HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 12:58:53 [INFO] [httptools_impl.py] [12972] 110.70.31.6:51204 - "[1mGET /common_issues?etf_tkr=KROP HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:07:44 [INFO] [httptools_impl.py] [12972] 223.62.188.130:52592 - "[1mGET /stk_filtering?etf_tkr=MILN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:07:44 [INFO] [httptools_impl.py] [12972] 223.62.188.130:52592 - "[1mGET /common_issues?etf_tkr=MILN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:09:28 [INFO] [httptools_impl.py] [12972] 223.38.48.174:42090 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:09:28 [INFO] [httptools_impl.py] [12972] 223.38.48.174:42090 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:10:43 [INFO] [httptools_impl.py] [12972] 223.38.48.174:38442 - "[1mGET /stk_filtering?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:10:43 [INFO] [httptools_impl.py] [12972] 223.38.48.174:38442 - "[1mGET /common_issues?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:10:48 [INFO] [httptools_impl.py] [12972] 223.38.48.174:38442 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:10:48 [INFO] [httptools_impl.py] [12972] 223.38.48.174:38442 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:11:42 [INFO] [httptools_impl.py] [12972] 223.38.48.174:35064 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:11:42 [INFO] [httptools_impl.py] [12972] 223.38.48.174:35064 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:13:48 [INFO] [httptools_impl.py] [12972] 211.245.172.234:52353 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:13:48 [INFO] [httptools_impl.py] [12972] 211.245.172.234:52353 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:13:54 [INFO] [httptools_impl.py] [12972] 211.245.172.234:52356 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:13:54 [INFO] [httptools_impl.py] [12972] 211.245.172.234:52356 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:14:12 [INFO] [httptools_impl.py] [12972] 211.245.172.234:52375 - "[1mGET /stk_filtering?etf_tkr=SOCL HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:14:12 [INFO] [httptools_impl.py] [12972] 211.245.172.234:52375 - "[1mGET /common_issues?etf_tkr=SOCL HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:19:41 [INFO] [httptools_impl.py] [12972] 211.234.197.42:62608 - "[1mGET /stk_filtering?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:19:41 [INFO] [httptools_impl.py] [12972] 211.234.197.42:62608 - "[1mGET /common_issues?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:19:47 [INFO] [httptools_impl.py] [12972] 180.226.238.36:59280 - "[1mGET /stk_filtering?etf_tkr=PAVE HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:19:47 [INFO] [httptools_impl.py] [12972] 180.226.238.36:59280 - "[1mGET /common_issues?etf_tkr=PAVE HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:20:20 [INFO] [httptools_impl.py] [12972] 210.106.232.236:52513 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:20:20 [INFO] [httptools_impl.py] [12972] 210.106.232.236:52513 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:20:54 [INFO] [httptools_impl.py] [12972] 210.106.232.236:52528 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:20:54 [INFO] [httptools_impl.py] [12972] 210.106.232.236:52528 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:20:58 [INFO] [httptools_impl.py] [12972] 210.106.232.236:52528 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:20:58 [INFO] [httptools_impl.py] [12972] 210.106.232.236:52528 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:24:47 [INFO] [httptools_impl.py] [12972] 121.166.193.171:55263 - "[1mGET /stk_filtering?etf_tkr=VPN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:24:47 [INFO] [httptools_impl.py] [12972] 121.166.193.171:55263 - "[1mGET /common_issues?etf_tkr=VPN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:26:59 [INFO] [httptools_impl.py] [12972] 210.106.232.236:52574 - "[1mGET /stk_filtering?etf_tkr=MILN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:26:59 [INFO] [httptools_impl.py] [12972] 210.106.232.236:52574 - "[1mGET /common_issues?etf_tkr=MILN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:27:17 [INFO] [httptools_impl.py] [12972] 210.106.232.47:53054 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:27:17 [INFO] [httptools_impl.py] [12972] 210.106.232.47:53054 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:28:23 [INFO] [httptools_impl.py] [12972] 210.106.232.144:55507 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:28:23 [INFO] [httptools_impl.py] [12972] 210.106.232.144:55507 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:28:51 [INFO] [httptools_impl.py] [12972] 210.106.232.206:53724 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:28:51 [INFO] [httptools_impl.py] [12972] 210.106.232.206:53724 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:32:15 [INFO] [httptools_impl.py] [12972] 39.7.231.236:61103 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:32:15 [INFO] [httptools_impl.py] [12972] 39.7.231.236:61103 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:33:55 [INFO] [httptools_impl.py] [12972] 210.106.232.47:53164 - "[1mGET /stk_filtering?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:33:55 [INFO] [httptools_impl.py] [12972] 210.106.232.47:53164 - "[1mGET /common_issues?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:35:06 [INFO] [httptools_impl.py] [12972] 210.106.232.238:49893 - "[1mGET /stk_filtering?etf_tkr=MILN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:35:06 [INFO] [httptools_impl.py] [12972] 210.106.232.238:49893 - "[1mGET /common_issues?etf_tkr=MILN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:36:20 [INFO] [httptools_impl.py] [12972] 118.235.3.109:64969 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:36:20 [INFO] [httptools_impl.py] [12972] 118.235.3.109:64969 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:39:29 [INFO] [httptools_impl.py] [12972] 1.229.169.115:61049 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:39:29 [INFO] [httptools_impl.py] [12972] 1.229.169.115:61049 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:52:41 [INFO] [httptools_impl.py] [12972] 117.111.12.119:16126 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:52:41 [INFO] [httptools_impl.py] [12972] 117.111.12.119:16126 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:55:11 [INFO] [httptools_impl.py] [12972] 116.34.184.87:36686 - "[1mGET /stk_filtering?etf_tkr=BUG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:55:11 [INFO] [httptools_impl.py] [12972] 116.34.184.87:36686 - "[1mGET /common_issues?etf_tkr=BUG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:55:31 [INFO] [httptools_impl.py] [12972] 106.102.142.183:28098 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:55:31 [INFO] [httptools_impl.py] [12972] 106.102.142.183:28098 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:56:03 [INFO] [httptools_impl.py] [12972] 106.102.11.75:16445 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:56:03 [INFO] [httptools_impl.py] [12972] 106.102.11.75:16445 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:56:28 [INFO] [httptools_impl.py] [12972] 106.102.11.75:59933 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:56:28 [INFO] [httptools_impl.py] [12972] 106.102.11.75:59933 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:57:22 [INFO] [httptools_impl.py] [12972] 210.106.232.23:49528 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:57:22 [INFO] [httptools_impl.py] [12972] 210.106.232.23:49528 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:58:48 [INFO] [httptools_impl.py] [12972] 210.106.232.23:49600 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:58:48 [INFO] [httptools_impl.py] [12972] 210.106.232.23:49600 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:59:02 [INFO] [httptools_impl.py] [12972] 210.106.232.23:49610 - "[1mGET /stk_filtering?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:59:02 [INFO] [httptools_impl.py] [12972] 210.106.232.23:49610 - "[1mGET /common_issues?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:59:10 [INFO] [httptools_impl.py] [12972] 211.218.176.16:59979 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:59:10 [INFO] [httptools_impl.py] [12972] 211.218.176.16:59979 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:59:11 [INFO] [httptools_impl.py] [12972] 210.106.232.23:49614 - "[1mGET /stk_filtering?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:59:11 [INFO] [httptools_impl.py] [12972] 210.106.232.23:49614 - "[1mGET /common_issues?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:59:16 [INFO] [httptools_impl.py] [12972] 210.106.232.23:49614 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 13:59:17 [INFO] [httptools_impl.py] [12972] 210.106.232.23:49614 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:00:43 [INFO] [httptools_impl.py] [12972] 223.62.188.180:51755 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:00:43 [INFO] [httptools_impl.py] [12972] 223.62.188.180:51755 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:02:43 [INFO] [httptools_impl.py] [12972] 118.235.12.194:7466 - "[1mGET /stk_filtering?etf_tkr=HERO HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:02:43 [INFO] [httptools_impl.py] [12972] 118.235.12.194:7466 - "[1mGET /common_issues?etf_tkr=HERO HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:02:56 [INFO] [httptools_impl.py] [12972] 118.235.12.194:57611 - "[1mGET /stk_filtering?etf_tkr=HERO HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:02:57 [INFO] [httptools_impl.py] [12972] 118.235.12.194:57611 - "[1mGET /common_issues?etf_tkr=HERO HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:09:54 [INFO] [httptools_impl.py] [12972] 211.212.209.88:56738 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:09:54 [INFO] [httptools_impl.py] [12972] 211.212.209.88:56738 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:11:53 [INFO] [httptools_impl.py] [12972] 106.101.0.107:5590 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:11:53 [INFO] [httptools_impl.py] [12972] 106.101.0.107:5590 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:12:38 [INFO] [httptools_impl.py] [12972] 211.36.158.207:62690 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:12:38 [INFO] [httptools_impl.py] [12972] 211.36.158.207:62690 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:12:47 [INFO] [httptools_impl.py] [12972] 121.65.255.174:64532 - "[1mGET /stk_filtering?etf_tkr=BUG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:12:48 [INFO] [httptools_impl.py] [12972] 121.65.255.174:64532 - "[1mGET /common_issues?etf_tkr=BUG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:12:56 [INFO] [httptools_impl.py] [12972] 121.65.255.174:64535 - "[1mGET /stk_filtering?etf_tkr=BUG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:12:57 [INFO] [httptools_impl.py] [12972] 121.65.255.174:64535 - "[1mGET /common_issues?etf_tkr=BUG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:13:18 [INFO] [httptools_impl.py] [12972] 121.65.255.174:64552 - "[1mGET /stk_filtering?etf_tkr=SOCL HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:13:18 [INFO] [httptools_impl.py] [12972] 121.65.255.174:64552 - "[1mGET /common_issues?etf_tkr=SOCL HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:16:11 [INFO] [httptools_impl.py] [12972] 223.38.84.87:20560 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:16:11 [INFO] [httptools_impl.py] [12972] 223.38.84.87:20560 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:16:16 [INFO] [httptools_impl.py] [12972] 223.38.84.87:20560 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:16:16 [INFO] [httptools_impl.py] [12972] 223.38.84.87:20560 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:16:18 [INFO] [httptools_impl.py] [12972] 222.108.102.150:63045 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:16:18 [INFO] [httptools_impl.py] [12972] 222.108.102.150:63045 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:25:59 [INFO] [httptools_impl.py] [12972] 58.142.62.117:36464 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:25:59 [INFO] [httptools_impl.py] [12972] 58.142.62.117:36464 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:40:28 [INFO] [httptools_impl.py] [12972] 116.37.80.82:64998 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:40:28 [INFO] [httptools_impl.py] [12972] 116.37.80.82:64998 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:40:35 [INFO] [httptools_impl.py] [12972] 211.246.68.48:36202 - "[1mGET /stk_filtering?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:40:35 [INFO] [httptools_impl.py] [12972] 211.246.68.48:36202 - "[1mGET /common_issues?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:44:56 [INFO] [httptools_impl.py] [12972] 125.132.154.172:53236 - "[1mGET /stk_filtering?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:44:56 [INFO] [httptools_impl.py] [12972] 125.132.154.172:53236 - "[1mGET /common_issues?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:46:46 [INFO] [httptools_impl.py] [12972] 211.234.195.151:58152 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:46:46 [INFO] [httptools_impl.py] [12972] 211.234.195.151:58152 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:49:00 [INFO] [httptools_impl.py] [12972] 14.52.71.186:8300 - "[1mGET /stk_filtering?etf_tkr=CLOU HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:49:00 [INFO] [httptools_impl.py] [12972] 14.52.71.186:8300 - "[1mGET /common_issues?etf_tkr=CLOU HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:55:46 [INFO] [httptools_impl.py] [12972] 106.101.194.136:23750 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:55:46 [INFO] [httptools_impl.py] [12972] 106.101.194.136:23750 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:56:14 [INFO] [httptools_impl.py] [12972] 223.38.47.17:45708 - "[1mGET /stk_filtering?etf_tkr=LIT HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 14:56:14 [INFO] [httptools_impl.py] [12972] 223.38.47.17:45708 - "[1mGET /common_issues?etf_tkr=LIT HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 15:12:39 [INFO] [httptools_impl.py] [12972] 106.101.130.94:63759 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 15:12:39 [INFO] [httptools_impl.py] [12972] 106.101.130.94:63759 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 15:12:45 [INFO] [httptools_impl.py] [12972] 121.130.31.171:54365 - "[1mGET /stk_filtering?etf_tkr=SOCL HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 15:12:45 [INFO] [httptools_impl.py] [12972] 121.130.31.171:54365 - "[1mGET /common_issues?etf_tkr=SOCL HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 15:30:32 [INFO] [httptools_impl.py] [12972] 104.28.68.30:42489 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 15:30:32 [INFO] [httptools_impl.py] [12972] 104.28.68.30:42489 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 15:30:35 [INFO] [httptools_impl.py] [12972] 211.234.180.172:39810 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 15:30:35 [INFO] [httptools_impl.py] [12972] 211.234.180.172:39810 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 15:42:16 [INFO] [httptools_impl.py] [12972] 106.102.128.54:52362 - "[1mGET /stk_filtering?etf_tkr=SNSR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 15:42:16 [INFO] [httptools_impl.py] [12972] 106.102.128.54:52362 - "[1mGET /common_issues?etf_tkr=SNSR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 15:58:35 [INFO] [httptools_impl.py] [12972] 203.252.150.101:56182 - "[1mGET /stk_filtering?etf_tkr=BUG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 15:58:35 [INFO] [httptools_impl.py] [12972] 203.252.150.101:56182 - "[1mGET /common_issues?etf_tkr=BUG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 16:01:19 [INFO] [httptools_impl.py] [12972] 106.101.194.136:57128 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 16:01:19 [INFO] [httptools_impl.py] [12972] 106.101.194.136:57128 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 16:01:45 [INFO] [httptools_impl.py] [12972] 106.101.194.136:55038 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 16:01:45 [INFO] [httptools_impl.py] [12972] 106.101.194.136:55038 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 16:03:45 [INFO] [httptools_impl.py] [12972] 210.106.232.206:64525 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 16:03:45 [INFO] [httptools_impl.py] [12972] 210.106.232.206:64525 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 16:05:31 [INFO] [httptools_impl.py] [12972] 223.62.162.197:56410 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 16:05:31 [INFO] [httptools_impl.py] [12972] 223.62.162.197:56410 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 16:25:23 [INFO] [httptools_impl.py] [12972] 117.16.136.215:58739 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 16:25:23 [INFO] [httptools_impl.py] [12972] 117.16.136.215:58739 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 16:43:56 [INFO] [httptools_impl.py] [12972] 118.235.6.240:24908 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 16:43:56 [INFO] [httptools_impl.py] [12972] 118.235.6.240:24908 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:02:32 [INFO] [httptools_impl.py] [12972] 211.36.137.27:25040 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:02:33 [INFO] [httptools_impl.py] [12972] 211.36.137.27:25040 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:04:11 [INFO] [httptools_impl.py] [12972] 106.102.128.207:56124 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:04:11 [INFO] [httptools_impl.py] [12972] 106.102.128.207:56124 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:06:28 [INFO] [httptools_impl.py] [12972] 123.254.164.187:59612 - "[1mGET /stk_filtering?etf_tkr=CHB HTTP/1.1[0m" [91m500 Internal Server Error[0m
+2023-09-07 17:06:33 [INFO] [httptools_impl.py] [12972] 123.254.164.187:59616 - "[1mGET /stk_filtering?etf_tkr=CHB HTTP/1.1[0m" [91m500 Internal Server Error[0m
+2023-09-07 17:08:34 [INFO] [httptools_impl.py] [12972] 106.101.131.150:55735 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:08:34 [INFO] [httptools_impl.py] [12972] 106.101.131.150:55735 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:10:15 [INFO] [httptools_impl.py] [12972] 172.226.95.11:11954 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:10:16 [INFO] [httptools_impl.py] [12972] 172.226.95.11:11954 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:12:29 [INFO] [httptools_impl.py] [12972] 106.102.142.249:45880 - "[1mGET /stk_filtering?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:12:29 [INFO] [httptools_impl.py] [12972] 106.102.142.249:45880 - "[1mGET /common_issues?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:16:53 [INFO] [httptools_impl.py] [12972] 14.7.46.202:41770 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:16:53 [INFO] [httptools_impl.py] [12972] 14.7.46.202:41770 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:25:38 [INFO] [httptools_impl.py] [12972] 210.106.232.161:53181 - "[1mGET /stk_filtering?etf_tkr=FINX HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:25:38 [INFO] [httptools_impl.py] [12972] 210.106.232.161:53181 - "[1mGET /common_issues?etf_tkr=FINX HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:39:44 [INFO] [httptools_impl.py] [12972] 14.51.78.105:45532 - "[1mGET /stk_filtering?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:39:44 [INFO] [httptools_impl.py] [12972] 14.51.78.105:45532 - "[1mGET /common_issues?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:40:06 [INFO] [httptools_impl.py] [12972] 14.51.78.105:45538 - "[1mGET /stk_filtering?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:40:06 [INFO] [httptools_impl.py] [12972] 14.51.78.105:45538 - "[1mGET /common_issues?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:40:51 [INFO] [httptools_impl.py] [12972] 14.51.78.105:45586 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:40:51 [INFO] [httptools_impl.py] [12972] 14.51.78.105:45586 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:43:13 [INFO] [httptools_impl.py] [12972] 14.51.78.105:45686 - "[1mGET /stk_filtering?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:43:13 [INFO] [httptools_impl.py] [12972] 14.51.78.105:45686 - "[1mGET /common_issues?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:46:21 [INFO] [httptools_impl.py] [12972] 14.51.78.105:45724 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:46:21 [INFO] [httptools_impl.py] [12972] 14.51.78.105:45724 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:52:20 [INFO] [httptools_impl.py] [12972] 106.101.64.227:46976 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 17:52:20 [INFO] [httptools_impl.py] [12972] 106.101.64.227:46976 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 18:04:13 [INFO] [httptools_impl.py] [12972] 211.234.194.58:57293 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 18:04:13 [INFO] [httptools_impl.py] [12972] 211.234.194.58:57293 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 18:19:21 [INFO] [httptools_impl.py] [12972] 211.234.192.208:46696 - "[1mGET /stk_filtering?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 18:19:22 [INFO] [httptools_impl.py] [12972] 211.234.192.208:46696 - "[1mGET /common_issues?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 18:20:11 [INFO] [httptools_impl.py] [12972] 211.234.192.208:18396 - "[1mGET /stk_filtering?etf_tkr=VPN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 18:20:11 [INFO] [httptools_impl.py] [12972] 211.234.192.208:18396 - "[1mGET /common_issues?etf_tkr=VPN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 18:21:34 [INFO] [httptools_impl.py] [12972] 211.234.192.208:41226 - "[1mGET /stk_filtering?etf_tkr=LIT HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 18:21:34 [INFO] [httptools_impl.py] [12972] 211.234.192.208:41226 - "[1mGET /common_issues?etf_tkr=LIT HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 18:22:01 [INFO] [httptools_impl.py] [12972] 211.234.192.208:57010 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 18:22:01 [INFO] [httptools_impl.py] [12972] 211.234.192.208:57010 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 18:35:46 [INFO] [httptools_impl.py] [12972] 128.199.26.50:43296 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-07 18:35:47 [INFO] [httptools_impl.py] [12972] 128.199.26.50:43316 - "[1mGET /api/islogged HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-07 18:42:22 [INFO] [httptools_impl.py] [12972] 1.222.55.78:42280 - "[1mGET /stk_filtering?etf_tkr=VPN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 18:42:22 [INFO] [httptools_impl.py] [12972] 1.222.55.78:42280 - "[1mGET /common_issues?etf_tkr=VPN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 19:08:29 [INFO] [httptools_impl.py] [12972] 211.193.244.160:51824 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 19:08:29 [INFO] [httptools_impl.py] [12972] 211.193.244.160:51824 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 19:11:36 [INFO] [httptools_impl.py] [12972] 172.226.94.41:17596 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 19:11:36 [INFO] [httptools_impl.py] [12972] 172.226.94.41:17596 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 19:23:39 [INFO] [httptools_impl.py] [12972] 106.101.131.150:56341 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 19:23:39 [INFO] [httptools_impl.py] [12972] 106.101.131.150:56341 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 19:29:29 [INFO] [httptools_impl.py] [12972] 106.102.129.70:46922 - "[1mGET /stk_filtering?etf_tkr=HERO HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 19:29:29 [INFO] [httptools_impl.py] [12972] 106.102.129.70:46922 - "[1mGET /common_issues?etf_tkr=HERO HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 19:36:51 [INFO] [httptools_impl.py] [12972] 211.234.180.161:55018 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 19:36:51 [INFO] [httptools_impl.py] [12972] 211.234.180.161:55018 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 20:07:36 [INFO] [httptools_impl.py] [12972] 121.135.182.90:60914 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 20:07:36 [INFO] [httptools_impl.py] [12972] 121.135.182.90:60914 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 20:13:25 [INFO] [httptools_impl.py] [12972] 1.243.35.211:34256 - "[1mGET /stk_filtering?etf_tkr=VPN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 20:13:25 [INFO] [httptools_impl.py] [12972] 1.243.35.211:34256 - "[1mGET /common_issues?etf_tkr=VPN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 20:14:52 [INFO] [httptools_impl.py] [12972] 211.234.188.134:55837 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 20:14:52 [INFO] [httptools_impl.py] [12972] 211.234.188.134:55837 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 20:22:45 [INFO] [httptools_impl.py] [12972] 223.33.165.229:58043 - "[1mGET /stk_filtering?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 20:22:45 [INFO] [httptools_impl.py] [12972] 223.33.165.229:58043 - "[1mGET /common_issues?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 20:24:02 [INFO] [httptools_impl.py] [12972] 211.234.195.120:52902 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 20:24:02 [INFO] [httptools_impl.py] [12972] 211.234.195.120:52902 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 20:34:19 [INFO] [httptools_impl.py] [12972] 39.7.230.205:53752 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 20:34:19 [INFO] [httptools_impl.py] [12972] 39.7.230.205:53752 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 20:49:23 [INFO] [httptools_impl.py] [12972] 122.35.250.84:54139 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 20:49:23 [INFO] [httptools_impl.py] [12972] 122.35.250.84:54139 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 20:49:54 [INFO] [httptools_impl.py] [12972] 122.35.250.84:54158 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 20:49:54 [INFO] [httptools_impl.py] [12972] 122.35.250.84:54158 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 20:50:18 [INFO] [httptools_impl.py] [12972] 122.35.250.84:54164 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 20:50:18 [INFO] [httptools_impl.py] [12972] 122.35.250.84:54164 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 21:45:49 [INFO] [httptools_impl.py] [12972] 222.109.92.196:45706 - "[1mGET /stk_filtering?etf_tkr=FINX HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 21:45:49 [INFO] [httptools_impl.py] [12972] 222.109.92.196:45706 - "[1mGET /common_issues?etf_tkr=FINX HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:15:48 [INFO] [httptools_impl.py] [12972] 211.46.29.215:43514 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:15:48 [INFO] [httptools_impl.py] [12972] 211.46.29.215:43514 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:21:41 [INFO] [httptools_impl.py] [12972] 221.146.39.168:12829 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:21:41 [INFO] [httptools_impl.py] [12972] 221.146.39.168:12829 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:31:53 [INFO] [httptools_impl.py] [12972] 221.146.104.179:63822 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:31:53 [INFO] [httptools_impl.py] [12972] 221.146.104.179:63822 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:32:11 [INFO] [httptools_impl.py] [12972] 221.146.104.179:63834 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:32:11 [INFO] [httptools_impl.py] [12972] 221.146.104.179:63834 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:32:17 [INFO] [httptools_impl.py] [12972] 221.146.104.179:63836 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:32:17 [INFO] [httptools_impl.py] [12972] 221.146.104.179:63836 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:32:21 [INFO] [httptools_impl.py] [12972] 221.146.104.179:63836 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:32:21 [INFO] [httptools_impl.py] [12972] 221.146.104.179:63836 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:32:25 [INFO] [httptools_impl.py] [12972] 221.146.104.179:63836 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:32:25 [INFO] [httptools_impl.py] [12972] 221.146.104.179:63836 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:38:50 [INFO] [httptools_impl.py] [12972] 125.243.222.77:63997 - "[1mGET /stk_filtering?etf_tkr=LIT HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:38:51 [INFO] [httptools_impl.py] [12972] 125.243.222.77:63997 - "[1mGET /common_issues?etf_tkr=LIT HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:38:59 [INFO] [httptools_impl.py] [12972] 125.243.222.77:63998 - "[1mGET /stk_filtering?etf_tkr=FINX HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:38:59 [INFO] [httptools_impl.py] [12972] 125.243.222.77:63998 - "[1mGET /common_issues?etf_tkr=FINX HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:44:54 [INFO] [httptools_impl.py] [12972] 27.175.243.245:59423 - "[1mGET /stk_filtering?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 22:44:54 [INFO] [httptools_impl.py] [12972] 27.175.243.245:59423 - "[1mGET /common_issues?etf_tkr=VR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 23:00:25 [INFO] [httptools_impl.py] [12972] 171.67.71.80:54544 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-07 23:06:51 [INFO] [httptools_impl.py] [12972] 139.59.58.140:40864 - "[1mGET /aaa9 HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-07 23:06:52 [INFO] [httptools_impl.py] [12972] 139.59.58.140:40878 - "[1mGET /aab8 HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-07 23:06:52 [INFO] [httptools_impl.py] [12972] 139.59.58.140:40888 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-07 23:17:11 [INFO] [httptools_impl.py] [12972] 220.117.110.124:57025 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 23:17:11 [INFO] [httptools_impl.py] [12972] 220.117.110.124:57025 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 23:20:18 [INFO] [httptools_impl.py] [12972] 223.62.22.237:52391 - "[1mGET /stk_filtering?etf_tkr=VPN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 23:20:18 [INFO] [httptools_impl.py] [12972] 223.62.22.237:52391 - "[1mGET /common_issues?etf_tkr=VPN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 23:21:02 [INFO] [httptools_impl.py] [12972] 223.62.22.237:52394 - "[1mGET /stk_filtering?etf_tkr=VPN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-07 23:21:02 [INFO] [httptools_impl.py] [12972] 223.62.22.237:52394 - "[1mGET /common_issues?etf_tkr=VPN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 00:51:24 [INFO] [httptools_impl.py] [12972] 1.239.71.73:56328 - "[1mGET /stk_filtering?etf_tkr=SOCL HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 00:51:24 [INFO] [httptools_impl.py] [12972] 1.239.71.73:56328 - "[1mGET /common_issues?etf_tkr=SOCL HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 01:19:24 [INFO] [httptools_impl.py] [12972] 112.169.210.19:38494 - "[1mGET /stk_filtering?etf_tkr=PAVE HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 01:19:24 [INFO] [httptools_impl.py] [12972] 112.169.210.19:38494 - "[1mGET /common_issues?etf_tkr=PAVE HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 01:19:46 [INFO] [httptools_impl.py] [12972] 112.169.210.19:41160 - "[1mGET /stk_filtering?etf_tkr=PAVE HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 01:19:46 [INFO] [httptools_impl.py] [12972] 112.169.210.19:41160 - "[1mGET /common_issues?etf_tkr=PAVE HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 01:20:02 [INFO] [httptools_impl.py] [12972] 112.169.210.19:38546 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 01:20:02 [INFO] [httptools_impl.py] [12972] 112.169.210.19:38546 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 01:20:38 [INFO] [httptools_impl.py] [12972] 112.169.210.19:38564 - "[1mGET /stk_filtering?etf_tkr=HERO HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 01:20:38 [INFO] [httptools_impl.py] [12972] 112.169.210.19:38564 - "[1mGET /common_issues?etf_tkr=HERO HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 02:27:21 [INFO] [httptools_impl.py] [12972] 185.216.140.186:38264 - "[1mGET /ping.js HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-08 04:52:47 [INFO] [httptools_impl.py] [12972] 167.248.133.127:57294 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-08 04:52:48 [INFO] [httptools_impl.py] [12972] 167.248.133.127:35528 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-08 05:22:42 [INFO] [httptools_impl.py] [12972] 167.94.138.127:52630 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-08 05:22:42 [INFO] [httptools_impl.py] [12972] 167.94.138.127:43316 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-08 05:53:38 [INFO] [httptools_impl.py] [12972] 14.39.167.249:34814 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 05:53:38 [INFO] [httptools_impl.py] [12972] 14.39.167.249:34814 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 05:53:57 [INFO] [httptools_impl.py] [12972] 14.39.167.249:55958 - "[1mGET /stk_filtering?etf_tkr=LIT HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 05:53:57 [INFO] [httptools_impl.py] [12972] 14.39.167.249:55958 - "[1mGET /common_issues?etf_tkr=LIT HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 08:02:14 [INFO] [httptools_impl.py] [12972] 175.209.125.21:64180 - "[1mGET /stk_filtering?etf_tkr=HERO HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 08:02:14 [INFO] [httptools_impl.py] [12972] 175.209.125.21:64180 - "[1mGET /common_issues?etf_tkr=HERO HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 08:10:00 [INFO] [httptools_impl.py] [12972] 122.35.250.84:50473 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 08:10:00 [INFO] [httptools_impl.py] [12972] 122.35.250.84:50473 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 08:18:15 [INFO] [httptools_impl.py] [12972] 118.235.6.120:56110 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 08:18:15 [INFO] [httptools_impl.py] [12972] 118.235.6.120:56110 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 08:19:53 [INFO] [httptools_impl.py] [12972] 223.38.94.213:37804 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 08:19:53 [INFO] [httptools_impl.py] [12972] 223.38.94.213:37804 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 09:34:04 [INFO] [httptools_impl.py] [12972] 167.94.145.56:51304 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-08 09:34:05 [INFO] [httptools_impl.py] [12972] 167.94.145.56:58528 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-08 09:40:35 [INFO] [httptools_impl.py] [12972] 109.205.213.94:56406 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-08 10:28:23 [INFO] [httptools_impl.py] [12972] 54.183.175.24:39212 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-08 10:28:23 [INFO] [httptools_impl.py] [12972] 54.183.175.24:39218 - "[1mGET /favicon.ico HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-08 10:54:02 [INFO] [httptools_impl.py] [12972] 159.203.208.23:41454 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-08 11:59:49 [INFO] [httptools_impl.py] [12972] 220.72.198.175:63883 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 11:59:49 [INFO] [httptools_impl.py] [12972] 220.72.198.175:63883 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 12:00:13 [INFO] [httptools_impl.py] [12972] 220.72.198.175:63889 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 12:00:13 [INFO] [httptools_impl.py] [12972] 220.72.198.175:63889 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 12:04:09 [INFO] [httptools_impl.py] [12972] 106.101.129.22:60413 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 12:04:09 [INFO] [httptools_impl.py] [12972] 106.101.129.22:60413 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 12:04:50 [INFO] [httptools_impl.py] [12972] 210.106.232.117:52378 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 12:04:50 [INFO] [httptools_impl.py] [12972] 210.106.232.117:52378 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 12:08:11 [INFO] [httptools_impl.py] [12972] 106.101.129.22:60430 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 12:08:11 [INFO] [httptools_impl.py] [12972] 106.101.129.22:60430 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 13:12:31 [INFO] [httptools_impl.py] [12972] 58.143.75.96:59464 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 13:12:32 [INFO] [httptools_impl.py] [12972] 58.143.75.96:59464 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 15:39:27 [INFO] [httptools_impl.py] [12972] 223.38.40.92:58062 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 15:39:27 [INFO] [httptools_impl.py] [12972] 223.38.40.92:58062 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 19:02:09 [INFO] [httptools_impl.py] [12972] 162.243.133.35:34536 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-08 19:34:30 [INFO] [httptools_impl.py] [12972] 104.28.71.31:57811 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 19:34:31 [INFO] [httptools_impl.py] [12972] 104.28.71.31:57811 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 19:34:46 [INFO] [httptools_impl.py] [12972] 104.28.71.31:53616 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 19:34:46 [INFO] [httptools_impl.py] [12972] 104.28.71.31:53616 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 21:02:47 [INFO] [httptools_impl.py] [12972] 218.148.130.97:34592 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 21:02:48 [INFO] [httptools_impl.py] [12972] 218.148.130.97:34592 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 21:52:57 [INFO] [httptools_impl.py] [12972] 61.77.159.69:64721 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 21:52:57 [INFO] [httptools_impl.py] [12972] 61.77.159.69:64721 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-08 22:26:06 [INFO] [httptools_impl.py] [12972] 162.142.125.11:50564 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-08 22:26:07 [INFO] [httptools_impl.py] [12972] 162.142.125.11:34388 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-08 23:46:51 [INFO] [httptools_impl.py] [12972] 69.164.217.245:41138 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-08 23:47:14 [INFO] [httptools_impl.py] [12972] 45.79.128.205:2826 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 02:01:27 [INFO] [httptools_impl.py] [12972] 87.236.176.135:39711 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 02:18:56 [INFO] [httptools_impl.py] [12972] 185.216.140.186:54464 - "[1mGET /ping.js HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 04:22:33 [INFO] [httptools_impl.py] [12972] 121.130.49.242:53930 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 04:22:33 [INFO] [httptools_impl.py] [12972] 121.130.49.242:53930 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 05:38:54 [INFO] [httptools_impl.py] [12972] 143.198.87.95:37272 - "[1mGET /favicon.ico HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 05:38:55 [INFO] [httptools_impl.py] [12972] 143.198.87.95:37286 - "[1mGET /image/lgbg.jpg HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 05:38:55 [INFO] [httptools_impl.py] [12972] 143.198.87.95:37290 - "[1mGET /skin/default_1/images/logo.png HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 05:39:00 [INFO] [httptools_impl.py] [12972] 143.198.87.95:37298 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 05:39:05 [INFO] [httptools_impl.py] [12972] 143.198.87.95:59414 - "[1mGET /login.rsp HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 08:27:48 [INFO] [httptools_impl.py] [12972] 180.149.125.165:53103 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 10:09:48 [INFO] [httptools_impl.py] [12972] 207.90.244.14:55728 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 10:09:48 [INFO] [httptools_impl.py] [12972] 207.90.244.14:55736 - "[1mGET /favicon.ico HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 11:07:55 [INFO] [httptools_impl.py] [12972] 8.222.150.8:38050 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 11:07:56 [INFO] [httptools_impl.py] [12972] 8.222.150.8:38276 - "[1mGET /robots.txt HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 11:07:56 [INFO] [httptools_impl.py] [12972] 8.222.150.8:38254 - "[1mGET /sitemap.xml HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 11:15:24 [INFO] [httptools_impl.py] [12972] 146.190.236.41:38056 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 11:15:26 [INFO] [httptools_impl.py] [12972] 146.190.236.41:43696 - "[1mGET /api/islogged HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 12:02:35 [INFO] [httptools_impl.py] [12972] 13.57.183.140:35642 - "[1mGET /favicon.ico HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 12:02:35 [INFO] [httptools_impl.py] [12972] 13.57.183.140:35632 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 12:21:50 [INFO] [httptools_impl.py] [12972] 14.39.91.138:54664 - "[1mGET /stk_filtering?etf_tkr=BUG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 12:21:50 [INFO] [httptools_impl.py] [12972] 14.39.91.138:54664 - "[1mGET /common_issues?etf_tkr=BUG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 13:07:43 [INFO] [httptools_impl.py] [12972] 223.39.253.178:33156 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 13:07:43 [INFO] [httptools_impl.py] [12972] 223.39.253.178:33156 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 13:08:32 [INFO] [httptools_impl.py] [12972] 223.39.253.178:33174 - "[1mGET /stk_filtering?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 13:08:32 [INFO] [httptools_impl.py] [12972] 223.39.253.178:33174 - "[1mGET /common_issues?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 13:10:02 [INFO] [httptools_impl.py] [12972] 223.39.253.178:33200 - "[1mGET /stk_filtering?etf_tkr=VPN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 13:10:02 [INFO] [httptools_impl.py] [12972] 223.39.253.178:33200 - "[1mGET /common_issues?etf_tkr=VPN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 13:26:15 [INFO] [httptools_impl.py] [12972] 1.228.79.60:61151 - "[1mGET /stk_filtering?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 13:26:15 [INFO] [httptools_impl.py] [12972] 1.228.79.60:61151 - "[1mGET /common_issues?etf_tkr=DRIV HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 13:44:49 [INFO] [httptools_impl.py] [12972] 89.248.164.165:56762 - "[1mGET /ping.js HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 13:55:05 [INFO] [httptools_impl.py] [12972] 73.232.204.7:48102 - "[1mGET /phpMyAdmin/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:05 [INFO] [httptools_impl.py] [12972] 73.232.204.7:49504 - "[1mGET /phpmyadmin/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:06 [INFO] [httptools_impl.py] [12972] 73.232.204.7:49708 - "[1mGET /phpMyAdmin-2.11.4/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:08 [INFO] [httptools_impl.py] [12972] 73.232.204.7:59806 - "[1mGET /phpMyAdmin-2.11.3/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:09 [INFO] [httptools_impl.py] [12972] 73.232.204.7:36890 - "[1mGET /phpMyAdmin-2.10.0.2/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:09 [INFO] [httptools_impl.py] [12972] 73.232.204.7:40992 - "[1mGET /phpMyAdmin-2.10.3/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:10 [INFO] [httptools_impl.py] [12972] 73.232.204.7:43118 - "[1mGET /phpMyAdmin-2.8.0.2/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:11 [INFO] [httptools_impl.py] [12972] 73.232.204.7:48474 - "[1mGET /phpMyAdmin-2.10.2/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:12 [INFO] [httptools_impl.py] [12972] 73.232.204.7:52600 - "[1mGET /phpMyAdmin-2.11.9.2/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:13 [INFO] [httptools_impl.py] [12972] 73.232.204.7:58470 - "[1mGET /phpMyAdmin-2.11.0/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:13 [INFO] [httptools_impl.py] [12972] 73.232.204.7:59928 - "[1mGET /phpMyAdmin-2.11.7/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:16 [INFO] [httptools_impl.py] [12972] 73.232.204.7:43066 - "[1mGET /phpMyAdmin-2.11.1.2/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:16 [INFO] [httptools_impl.py] [12972] 73.232.204.7:43376 - "[1mGET /pma/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:20 [INFO] [httptools_impl.py] [12972] 73.232.204.7:46340 - "[1mGET /phpMyAdmin3/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:21 [INFO] [httptools_impl.py] [12972] 73.232.204.7:37466 - "[1mGET /myadmin/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:21 [INFO] [httptools_impl.py] [12972] 73.232.204.7:42650 - "[1mGET /MyAdmin/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:23 [INFO] [httptools_impl.py] [12972] 73.232.204.7:46856 - "[1mGET /PHPMYADMIN/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:23 [INFO] [httptools_impl.py] [12972] 73.232.204.7:51820 - "[1mGET /mysqladmin/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:24 [INFO] [httptools_impl.py] [12972] 73.232.204.7:54290 - "[1mGET /SQL/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:24 [INFO] [httptools_impl.py] [12972] 73.232.204.7:54464 - "[1mGET /phpMyAdmin-2.5.5-pl1/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:26 [INFO] [httptools_impl.py] [12972] 73.232.204.7:37474 - "[1mGET /phpMyAdmin-2.5.5/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:28 [INFO] [httptools_impl.py] [12972] 73.232.204.7:45462 - "[1mGET /phpMyAdmin-2.5.4/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:29 [INFO] [httptools_impl.py] [12972] 73.232.204.7:48942 - "[1mGET /phpMyAdmin-2.5.7-pl1/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:29 [INFO] [httptools_impl.py] [12972] 73.232.204.7:49230 - "[1mGET /admin/pma/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:31 [INFO] [httptools_impl.py] [12972] 73.232.204.7:53000 - "[1mGET /phpMyAdmin-2/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:31 [INFO] [httptools_impl.py] [12972] 73.232.204.7:60626 - "[1mGET /web/phpMyAdmin/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:33 [INFO] [httptools_impl.py] [12972] 73.232.204.7:60864 - "[1mGET /webadmin/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:34 [INFO] [httptools_impl.py] [12972] 73.232.204.7:48362 - "[1mGET /admin/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:35 [INFO] [httptools_impl.py] [12972] 73.232.204.7:50660 - "[1mGET /dbadmin/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:36 [INFO] [httptools_impl.py] [12972] 73.232.204.7:55072 - "[1mGET /mysql/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:37 [INFO] [httptools_impl.py] [12972] 73.232.204.7:60094 - "[1mGET /phpMyAdmin2/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:37 [INFO] [httptools_impl.py] [12972] 73.232.204.7:33966 - "[1mGET /phpma/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:39 [INFO] [httptools_impl.py] [12972] 73.232.204.7:38024 - "[1mGET /sqlweb/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:39 [INFO] [httptools_impl.py] [12972] 73.232.204.7:43512 - "[1mGET /webdb/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:41 [INFO] [httptools_impl.py] [12972] 73.232.204.7:47198 - "[1mGET /websql/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:42 [INFO] [httptools_impl.py] [12972] 73.232.204.7:54936 - "[1mGET /_phpMyAdmin/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:43 [INFO] [httptools_impl.py] [12972] 73.232.204.7:58928 - "[1mGET /php/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:43 [INFO] [httptools_impl.py] [12972] 73.232.204.7:34808 - "[1mGET /admin/phpmyadmin/scripts/setup.txt HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:44 [INFO] [httptools_impl.py] [12972] 73.232.204.7:40212 - "[1mGET /db/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 13:55:45 [INFO] [httptools_impl.py] [12972] 73.232.204.7:42212 - "[1mGET /sqlmanager/scripts/setup.php HTTP/1.0[0m" [31m404 Not Found[0m
+2023-09-09 14:20:05 [INFO] [httptools_impl.py] [12972] 125.129.74.40:55248 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 14:20:05 [INFO] [httptools_impl.py] [12972] 125.129.74.40:55248 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 14:27:53 [INFO] [httptools_impl.py] [12972] 125.129.74.40:55361 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 14:27:53 [INFO] [httptools_impl.py] [12972] 125.129.74.40:55361 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 15:38:44 [INFO] [httptools_impl.py] [12972] 175.210.242.129:60122 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 15:38:45 [INFO] [httptools_impl.py] [12972] 175.210.242.129:60122 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 15:39:20 [INFO] [httptools_impl.py] [12972] 175.210.242.129:60124 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 15:39:20 [INFO] [httptools_impl.py] [12972] 175.210.242.129:60124 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 15:39:45 [INFO] [httptools_impl.py] [12972] 175.210.242.129:60132 - "[1mGET /stk_filtering?etf_tkr=FINX HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 15:39:45 [INFO] [httptools_impl.py] [12972] 175.210.242.129:60132 - "[1mGET /common_issues?etf_tkr=FINX HTTP/1.1[0m" [32m200 OK[0m
+2023-09-09 17:15:33 [INFO] [httptools_impl.py] [12972] 64.62.197.71:41439 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 17:15:46 [INFO] [httptools_impl.py] [12972] 64.62.197.65:49877 - "[1mGET /favicon.ico HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 17:15:57 [INFO] [httptools_impl.py] [12972] 64.62.197.69:64687 - "[1mGET /?format=json HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 18:13:27 [INFO] [httptools_impl.py] [12972] 185.216.140.186:39986 - "[1mGET /ping.js HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-09 23:24:51 [INFO] [httptools_impl.py] [12972] 92.173.176.195:45376 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-10 02:11:07 [INFO] [httptools_impl.py] [12972] 185.216.140.186:47666 - "[1mGET /ping.js HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-10 14:19:02 [INFO] [httptools_impl.py] [23933] 119.194.50.170:50149 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:19:02 [INFO] [httptools_impl.py] [23933] 119.194.50.170:50149 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:26:07 [INFO] [httptools_impl.py] [23933] 218.158.186.77:60270 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:26:07 [INFO] [httptools_impl.py] [23933] 218.158.186.77:60270 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:36:55 [INFO] [httptools_impl.py] [23933] 211.36.158.231:58348 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:36:55 [INFO] [httptools_impl.py] [23933] 211.36.158.231:58348 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:37:00 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41008 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:37:00 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41008 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:38:06 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41036 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:38:06 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41036 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:39:19 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41054 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:39:19 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41054 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:40:41 [INFO] [httptools_impl.py] [23933] 115.95.185.229:6771 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:40:41 [INFO] [httptools_impl.py] [23933] 115.95.185.229:6771 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:44:42 [INFO] [httptools_impl.py] [23933] 119.194.50.170:52059 - "[1mGET /stk_filtering?etf_tkr=RNRG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:44:42 [INFO] [httptools_impl.py] [23933] 119.194.50.170:52059 - "[1mGET /common_issues?etf_tkr=RNRG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:45:47 [INFO] [httptools_impl.py] [23933] 211.36.158.231:37336 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:45:47 [INFO] [httptools_impl.py] [23933] 211.36.158.231:37336 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:45:52 [INFO] [httptools_impl.py] [23933] 119.194.50.170:52061 - "[1mGET /stk_filtering?etf_tkr=RNRG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:45:52 [INFO] [httptools_impl.py] [23933] 119.194.50.170:52061 - "[1mGET /common_issues?etf_tkr=RNRG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:46:24 [INFO] [httptools_impl.py] [23933] 119.194.50.170:52152 - "[1mGET /stk_filtering?etf_tkr=RAYS HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:46:24 [INFO] [httptools_impl.py] [23933] 119.194.50.170:52152 - "[1mGET /common_issues?etf_tkr=RAYS HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:46:32 [INFO] [httptools_impl.py] [23933] 121.130.49.242:55872 - "[1mGET /stk_filtering?etf_tkr=RNRG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:46:32 [INFO] [httptools_impl.py] [23933] 121.130.49.242:55872 - "[1mGET /common_issues?etf_tkr=RNRG HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:50:04 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41226 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:50:04 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41226 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:52:05 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41238 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:52:05 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41238 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:53:09 [INFO] [httptools_impl.py] [23933] 122.35.250.84:53251 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:53:09 [INFO] [httptools_impl.py] [23933] 122.35.250.84:53251 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:54:37 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41300 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 14:54:37 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41300 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:04:56 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41390 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:04:56 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41390 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:05:41 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41408 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:05:41 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41408 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:05:52 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41428 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:05:52 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41428 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:07:41 [INFO] [httptools_impl.py] [23933] 223.38.47.49:39656 - "[1mGET /stk_filtering?etf_tkr=VPN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:07:41 [INFO] [httptools_impl.py] [23933] 223.38.47.49:39656 - "[1mGET /common_issues?etf_tkr=VPN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:11:07 [INFO] [httptools_impl.py] [23933] 121.130.49.242:56633 - "[1mGET /stk_filtering?etf_tkr=EDUT HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:11:07 [INFO] [httptools_impl.py] [23933] 121.130.49.242:56633 - "[1mGET /common_issues?etf_tkr=EDUT HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:11:47 [INFO] [httptools_impl.py] [23933] 121.130.49.242:56647 - "[1mGET /stk_filtering?etf_tkr=EDUT HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:11:47 [INFO] [httptools_impl.py] [23933] 121.130.49.242:56647 - "[1mGET /common_issues?etf_tkr=EDUT HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:12:02 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41552 - "[1mGET /stk_filtering?etf_tkr=HYDR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:12:02 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41552 - "[1mGET /common_issues?etf_tkr=HYDR HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:15:08 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41622 - "[1mGET /stk_filtering?etf_tkr=MILN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:15:08 [INFO] [httptools_impl.py] [23933] 122.35.250.84:41622 - "[1mGET /common_issues?etf_tkr=MILN HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:24:54 [INFO] [httptools_impl.py] [23933] 211.234.196.118:60842 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:24:54 [INFO] [httptools_impl.py] [23933] 211.234.196.118:60842 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:29:37 [INFO] [httptools_impl.py] [23933] 14.39.202.107:59696 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:29:37 [INFO] [httptools_impl.py] [23933] 14.39.202.107:59696 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:30:27 [INFO] [httptools_impl.py] [23933] 14.39.202.107:59715 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:30:27 [INFO] [httptools_impl.py] [23933] 14.39.202.107:59715 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:34:39 [INFO] [httptools_impl.py] [23933] 106.101.129.22:53765 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:34:39 [INFO] [httptools_impl.py] [23933] 106.101.129.22:53765 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:43:54 [INFO] [httptools_impl.py] [23933] 220.65.240.165:64363 - "[1mGET /stk_filtering?etf_tkr=SOCL HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:43:54 [INFO] [httptools_impl.py] [23933] 220.65.240.165:64363 - "[1mGET /common_issues?etf_tkr=SOCL HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:44:22 [INFO] [httptools_impl.py] [23933] 220.65.240.165:64367 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:44:22 [INFO] [httptools_impl.py] [23933] 220.65.240.165:64367 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:52:01 [INFO] [httptools_impl.py] [23933] 39.7.231.127:12303 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 15:52:01 [INFO] [httptools_impl.py] [23933] 39.7.231.127:12303 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 16:49:49 [INFO] [httptools_impl.py] [23933] 89.248.164.165:59266 - "[1mGET /ping.js HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-10 17:15:45 [INFO] [httptools_impl.py] [23933] 223.38.95.51:55309 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 17:15:46 [INFO] [httptools_impl.py] [23933] 223.38.95.51:55309 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 17:16:51 [INFO] [httptools_impl.py] [23933] 223.38.95.51:55313 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 17:16:51 [INFO] [httptools_impl.py] [23933] 223.38.95.51:55313 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 18:46:53 [INFO] [httptools_impl.py] [23933] 118.235.15.80:16032 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 18:46:53 [INFO] [httptools_impl.py] [23933] 118.235.15.80:16032 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 18:47:42 [INFO] [httptools_impl.py] [23933] 118.235.15.80:10126 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 18:47:42 [INFO] [httptools_impl.py] [23933] 118.235.15.80:10126 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 18:58:30 [INFO] [httptools_impl.py] [23933] 118.235.12.30:51360 - "[1mGET /stk_filtering?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 18:58:30 [INFO] [httptools_impl.py] [23933] 118.235.12.30:51360 - "[1mGET /common_issues?etf_tkr=BOTZ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 19:51:31 [INFO] [httptools_impl.py] [23933] 118.235.15.80:51518 - "[1mGET /stk_filtering?etf_tkr=HERO HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 19:51:32 [INFO] [httptools_impl.py] [23933] 118.235.15.80:51518 - "[1mGET /common_issues?etf_tkr=HERO HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 19:52:59 [INFO] [httptools_impl.py] [23933] 118.235.15.80:58058 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 19:52:59 [INFO] [httptools_impl.py] [23933] 118.235.15.80:58058 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 19:53:04 [INFO] [httptools_impl.py] [23933] 118.235.15.80:42380 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 19:53:05 [INFO] [httptools_impl.py] [23933] 118.235.15.80:42380 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 20:16:15 [INFO] [httptools_impl.py] [23933] 114.201.204.91:55617 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 20:16:15 [INFO] [httptools_impl.py] [23933] 114.201.204.91:55617 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 20:17:09 [INFO] [httptools_impl.py] [23933] 114.201.204.91:55640 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 20:17:09 [INFO] [httptools_impl.py] [23933] 114.201.204.91:55640 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 20:17:21 [INFO] [httptools_impl.py] [23933] 114.201.204.91:55644 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 20:17:21 [INFO] [httptools_impl.py] [23933] 114.201.204.91:55644 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 22:11:14 [INFO] [httptools_impl.py] [23933] 118.235.15.80:60530 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-10 22:11:14 [INFO] [httptools_impl.py] [23933] 118.235.15.80:60530 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-11 00:08:12 [INFO] [httptools_impl.py] [23933] 106.101.129.22:55409 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-11 00:08:12 [INFO] [httptools_impl.py] [23933] 106.101.129.22:55409 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-11 09:51:18 [INFO] [httptools_impl.py] [23933] 121.130.49.242:41103 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-11 09:51:18 [INFO] [httptools_impl.py] [23933] 121.130.49.242:41103 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-11 10:53:14 [INFO] [httptools_impl.py] [23933] 89.248.164.165:40104 - "[1mGET /ping.js HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-11 12:04:02 [INFO] [httptools_impl.py] [23933] 162.142.125.225:38744 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-11 13:19:21 [INFO] [httptools_impl.py] [23933] 121.130.49.242:47790 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-11 13:19:21 [INFO] [httptools_impl.py] [23933] 121.130.49.242:47790 - "[1mGET /common_issues?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-09-11 14:28:47 [INFO] [httptools_impl.py] [23933] 184.105.247.234:17287 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-11 14:29:21 [INFO] [httptools_impl.py] [23933] 184.105.247.234:57309 - "[1mGET /favicon.ico HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-11 14:29:42 [INFO] [httptools_impl.py] [23933] 184.105.247.214:32271 - "[1mGET /?format=json HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-11 16:41:10 [INFO] [httptools_impl.py] [23933] 121.130.49.242:1396 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-11 16:41:10 [INFO] [httptools_impl.py] [23933] 121.130.49.242:1396 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-11 16:47:01 [INFO] [httptools_impl.py] [23933] 121.130.49.242:1666 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-11 16:47:01 [INFO] [httptools_impl.py] [23933] 121.130.49.242:1666 - "[1mGET /common_issues?etf_tkr=AIQ HTTP/1.1[0m" [32m200 OK[0m
+2023-09-11 17:05:27 [INFO] [httptools_impl.py] [23933] 87.236.176.71:38669 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-11 17:54:01 [INFO] [httptools_impl.py] [23933] 185.216.140.186:47256 - "[1mGET /ping.js HTTP/1.1[0m" [31m404 Not Found[0m
