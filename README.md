@@ -1,18 +1,18 @@
-### 2023 미래에셋 빅데이터 페스티벌 제출 코드
+# 2023 미래에셋 빅데이터 페스티벌 제출 코드
 
 2023 미래에셋 빅데이터 페스티벌 'moongminjun' 팀의 제출 코드를 모아놓은 레파지토리입니다. 
 ---
 
 ## 시작 가이드
 
-# Requirements
+### Requirements
 
 이 레포의 코드를 실행하기 위한 요구사항은 다음과 같습니다:
 
 - Anaconda 23.7.2
 - python 3.10.12
 
-# Installation
+### Installation
 
 ```
 $git clone https://github.com/moongTnT/miraeasset-bigfesta-2023.git
