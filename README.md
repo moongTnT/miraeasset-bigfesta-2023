@@ -2,8 +2,10 @@
 
 해외주식 다이렉트 인덱싱 서비스 총 트래픽 1만 오천 & 구매전환 7%
 
-2023 미래에셋 빅데이터 페스티벌 'moongminjun' 팀의 제출 코드를 모아놓은 레파지토리입니다. 
+2023 미래에셋 빅데이터 페스티벌 'moongminjun' 팀의 제출 코드(코어 로직)를 모아놓은 레파지토리입니다. 
 
+백엔드 서버 1 - https://github.com/moongTnT/miraeasset-backend
+백엔드 서버 2 - https://github.com/moongTnT/miraeasset-GPT
 
 ## 시작 가이드
 
