@@ -25,6 +25,6 @@
     },
 
     "openai_config": {
-        "API_KEY": "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"
+        "API_KEY": "OPENAI_API_KEY"
     }
 }
